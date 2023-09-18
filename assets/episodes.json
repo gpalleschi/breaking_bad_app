@@ -1,0 +1,2151 @@
+[
+  {
+    "episode_id": "101",
+    "title": "Pilot",
+    "season": "1",
+    "air_date": "January 20, 2008",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Krazy-8",
+      "Bogdan Wolynetz"
+    ],
+    "episode": "1",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "102",
+    "title": "Cat's in the Bag...",
+    "season": "1",
+    "air_date": "January 27, 2008",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Walter White Jr.",
+      "Krazy-8"
+    ],
+    "episode": "2",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "103",
+    "title": "...And the Bag's in the River",
+    "season": "1",
+    "air_date": "February 10, 2008",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Krazy-8",
+      "Gretchen Schwartz"
+    ],
+    "episode": "3",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "104",
+    "title": "Cancer Man",
+    "season": "1",
+    "air_date": "February 17, 2008",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Ken Wins"
+    ],
+    "episode": "4",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "105",
+    "title": "Gray Matter",
+    "season": "1",
+    "air_date": "February 24, 2008",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Elliott Schwarts",
+      "Gretchen Swartz",
+      "Badger"
+    ],
+    "episode": "5",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "106",
+    "title": "Crazy Handful of Nothin",
+    "season": "1",
+    "air_date": "March 02, 2008",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Tuco Salamanca"
+    ],
+    "episode": "6",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": " 107",
+    "title": "A No-Rough-Stuff-Type Deal",
+    "season": " 1",
+    "air_date": "March 09, 2008",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Tuco Salamanca"
+    ],
+    "episode": "7",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "201",
+    "title": "Seven-Thirty-Seven",
+    "season": "2",
+    "air_date": "March 08, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Tuco Salamanca"
+    ],
+    "episode": "1",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "202",
+    "title": "Grilled",
+    "season": "2",
+    "air_date": "March 15, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Tuco Salamanca",
+      "Hector Salamanca"
+    ],
+    "episode": "2",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "203",
+    "title": "Bit by a Dead Bee",
+    "season": "2",
+    "air_date": "March 22, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Hector Salamanca"
+    ],
+    "episode": "3",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "204",
+    "title": "Down",
+    "season": "2",
+    "air_date": "March 29, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Walter White Jr."
+    ],
+    "episode": "4",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "205",
+    "title": "Breakage",
+    "season": "2",
+    "air_date": "April 05, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Jane Margolis",
+      "Badger"
+    ],
+    "episode": "5",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "206",
+    "title": "Peekaboo",
+    "season": "2",
+    "air_date": "April 12, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gretchen Schwartz"
+    ],
+    "episode": "6",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "207",
+    "title": "Negro y Azul",
+    "season": "2",
+    "air_date": "April 19, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Tortuga",
+      "Jane Margolis",
+      "Ted Beneke"
+    ],
+    "episode": "7",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "208",
+    "title": "Better Call Saul",
+    "season": "2",
+    "air_date": "April 26, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Saul Goodman",
+      "Jane Margolis",
+      "Badger"
+    ],
+    "episode": "8",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "209",
+    "title": "4 Days Out",
+    "season": "2",
+    "air_date": "May 03, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Jane Margolis"
+    ],
+    "episode": "9",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "210",
+    "title": "Over",
+    "season": "2",
+    "air_date": "May 10, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Jane Margolis",
+      "Ted Beneke"
+    ],
+    "episode": "10",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "211",
+    "title": "Mandala",
+    "season": "2",
+    "air_date": "May 17, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Saul Goodman",
+      "Gustavo Fring",
+      "Jane Margolis",
+      "Ted Beneke",
+      "Donald Margolis",
+      "Combo"
+    ],
+    "episode": "11",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "212",
+    "title": "Phoenix",
+    "season": "2",
+    "air_date": "May 24, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Jane Margolis",
+      "Ted Beneke",
+      "Donald Margolis"
+    ],
+    "episode": "12",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "213",
+    "title": "ABQ",
+    "season": "2",
+    "air_date": "May 31, 2009",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Mike Ehrmantraut",
+      "Gustavo Fring",
+      "Jane Margolis",
+      "Donald Margolis"
+    ],
+    "episode": "13",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "301",
+    "title": "No Más",
+    "season": "3",
+    "air_date": "March 21, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "The cousins"
+    ],
+    "episode": "1",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "302",
+    "title": "Caballo sin Nombre",
+    "season": "3",
+    "air_date": "March 28, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Hector Salamanca"
+    ],
+    "episode": "2",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "303",
+    "title": "IFT",
+    "season": "3",
+    "air_date": "April 04, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Hector Salamanca",
+      "Ted Beneke"
+    ],
+    "episode": "3",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "304",
+    "title": "Green Light",
+    "season": "3",
+    "air_date": "April 11, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Ted Beneke"
+    ],
+    "episode": "4",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "305",
+    "title": "Más",
+    "season": "3",
+    "air_date": "April 18, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Ted Beneke"
+    ],
+    "episode": "5",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "306",
+    "title": "Sunset",
+    "season": "3",
+    "air_date": "April 25, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Gale Boetticher",
+      "The cousins"
+    ],
+    "episode": "6",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "307",
+    "title": "One Minute",
+    "season": "3",
+    "air_date": "May 02, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Saul Goodman",
+      "Hector Salamanca",
+      "The cousins",
+      "Gale Boetticher"
+    ],
+    "episode": "7",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "308",
+    "title": "I See You",
+    "season": "3",
+    "air_date": "May 09, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Mike Ehrmantraut"
+    ],
+    "episode": "8",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "309",
+    "title": "Kafkaesque",
+    "season": "3",
+    "air_date": "May 16, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Ted Beneke"
+    ],
+    "episode": "9",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "310",
+    "title": "Fly",
+    "season": "3",
+    "air_date": "May 23, 2010",
+    "characters": ["Walter White", "Jesse Pinkman", "a fly"],
+    "episode": "10",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "311",
+    "title": "Abiquiu",
+    "season": "3",
+    "air_date": "May 30, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Jane Margolis"
+    ],
+    "episode": "11",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "312",
+    "title": "Half measures",
+    "season": "3",
+    "air_date": "June 06, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Andrea Cantillo",
+      "Victor"
+    ],
+    "episode": "12",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "313",
+    "title": "Full Measure",
+    "season": "3",
+    "air_date": "June 13, 2010",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Gale Boetticher",
+      "Victor"
+    ],
+    "episode": "13",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "401",
+    "title": "Box Cutter",
+    "season": "4",
+    "air_date": "July 17, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Gale Boetticher",
+      "Victor"
+    ],
+    "episode": "1",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "402",
+    "title": "Thirty-Eight Snub",
+    "season": "4",
+    "air_date": "July 24, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Andrea Cantillo"
+    ],
+    "episode": "2",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "403",
+    "title": "Open House",
+    "season": "4",
+    "air_date": "July 31, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Saul Goodman",
+      "Bogdan Wolynetz"
+    ],
+    "episode": "3",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "404",
+    "title": "Bullet Points",
+    "season": "4",
+    "air_date": "August 07, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "White White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Gale Boetticher"
+    ],
+    "episode": "4",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "405",
+    "title": "Shotgun",
+    "season": "4",
+    "air_date": "August 14, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Mike Ehrmantraut"
+    ],
+    "episode": "5",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "406",
+    "title": "Cornered",
+    "season": "4",
+    "air_date": "August 21, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Mike Ehrmantraut",
+      "Bogdan Wolynetz"
+    ],
+    "episode": "6",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "407",
+    "title": "Problem Dog",
+    "season": "4",
+    "air_date": "August 28, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Gale Boetticher"
+    ],
+    "episode": "7",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "408",
+    "title": "Hermanos",
+    "season": "4",
+    "air_date": "September 04, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Hector Salamanca",
+      "Andrea Cantillo"
+    ],
+    "episode": "8",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "409",
+    "title": "Bug",
+    "season": "4",
+    "air_date": "September 11, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Gustavo Fring",
+      "Mike Ehrmantraut",
+      "Ted Beneke"
+    ],
+    "episode": "9",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "410",
+    "title": "Salud",
+    "season": "4",
+    "air_date": "September 18, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Ted Beneke",
+      "Don Eladio"
+    ],
+    "episode": "10",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "411",
+    "title": "Crawl Space",
+    "season": "4",
+    "air_date": "September 25, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Hector Salamanca",
+      "Ted Beneke",
+      "Andrea Cantillo"
+    ],
+    "episode": "11",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "412",
+    "title": "End Times",
+    "season": "4",
+    "air_date": "October 02, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman",
+      "Andrea Cantillo"
+    ],
+    "episode": "12",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "413",
+    "title": "Face Off",
+    "season": "4",
+    "air_date": "October 09, 2011",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Gustavo Fring",
+      "Saul Goodman"
+    ],
+    "episode": "13",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "501",
+    "title": "Live Free of Die",
+    "season": "5",
+    "air_date": "July 15, 2012",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Ted Beneke"
+    ],
+    "episode": "1",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "502",
+    "title": "Madrigal",
+    "season": "5",
+    "air_date": "July 22, 2012",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Lydia Rodarte-Quayle"
+    ],
+    "episode": "2",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "503",
+    "title": "Hazard Pay",
+    "season": "5",
+    "air_date": "July 29, 2012",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Badger",
+      "Andrea Cantillo",
+      "Todd Alquist"
+    ],
+    "episode": "3",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "504",
+    "title": "Fifty-One",
+    "season": "5",
+    "air_date": "August 05, 2012",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Mike Ehrmantraut",
+      "Lydia Rodarte-Quayle"
+    ],
+    "episode": "4",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "505",
+    "title": "Dead Freight",
+    "season": "5",
+    "air_date": "August 12, 2012",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Mike Ehrmantraut",
+      "Lydia Rodarte-Quayle",
+      "Todd Alquist"
+    ],
+    "episode": "5",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "506",
+    "title": "Buyout",
+    "season": "5",
+    "air_date": "August 19, 2012",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Todd Alquist"
+    ],
+    "episode": "6",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "507",
+    "title": "Say My Name",
+    "season": "5",
+    "air_date": "August 26, 2012",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Todd Alquist"
+    ],
+    "episode": "7",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "508",
+    "title": "Gliding Over All",
+    "season": "5",
+    "air_date": "September 02, 2012",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Lydia Rodarte-Quayle",
+      "Todd Alquist"
+    ],
+    "episode": "8",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "509",
+    "title": "Blood Money",
+    "season": "5",
+    "air_date": "August 11, 2013",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Lydia Rodarte-Quayle",
+      "Badger",
+      "Skinny Pete"
+    ],
+    "episode": "9",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "510",
+    "title": "Buried",
+    "season": "5",
+    "air_date": "August 18, 2013",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Saul Goodman",
+      "Lydia Rodarte-Quayle",
+      "Todd Alquist",
+      "Jack Welker"
+    ],
+    "episode": "10",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "511",
+    "title": "Confessions",
+    "season": "5",
+    "air_date": "August 25, 2013",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Todd Alquist",
+      "Jack Welker"
+    ],
+    "episode": "11",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "512",
+    "title": "Rabid Dog",
+    "season": "5",
+    "air_date": "September 01, 2013",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Saul Goodman"
+    ],
+    "episode": "12",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "513",
+    "title": "To'hajilee",
+    "season": "5",
+    "air_date": "September 08, 2013",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Lydia Rodarte-Quayle",
+      "Todd Alquist",
+      "Andrea Cantillo",
+      "Jack Welker"
+    ],
+    "episode": "13",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "514",
+    "title": "Ozymandias",
+    "season": "5",
+    "air_date": "September 15, 2013",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Hank Schrader",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Todd Alquist",
+      "Jack Welker",
+      "Steve Gomez"
+    ],
+    "episode": "14",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "515",
+    "title": "Granite State",
+    "season": "5",
+    "air_date": "September 22, 2013",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Marie Schrader",
+      "Saul Goodman",
+      "Lydia Rodarte-Quayle",
+      "Todd Alquist",
+      "Jack Welker",
+      "Andrea Cantillo",
+      "Eliott Schwartz",
+      "Gretchen Schwartz"
+    ],
+    "episode": "15",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "516",
+    "title": "Felina",
+    "season": "5",
+    "air_date": "September 29, 2013",
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Marie Schrader",
+      "Walter White Jr.",
+      "Lydia Rodarte-Quayle",
+      "Todd Alquist",
+      "Jack Welker",
+      "Badger",
+      "Skinny Pete",
+      "Eliott Schwartz",
+      "Gretchen Schwartz"
+    ],
+    "episode": "16",
+    "series": "Breaking Bad"
+  },
+  {
+    "episode_id": "101",
+    "title": "Uno",
+    "season": "1",
+    "air_date": "February 08, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "102",
+    "title": "Mijo",
+    "season": "1",
+    "air_date": "February 09, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga",
+      "Tuco Salamanca"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "103",
+    "title": "Nacho",
+    "season": "1",
+    "air_date": "February 16, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "104",
+    "title": "Hero",
+    "season": "1",
+    "air_date": "February 23, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "105",
+    "title": "Alpine Shepherd Boy",
+    "season": "1",
+    "air_date": "March 02, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "106",
+    "title": "Five-O",
+    "season": "1",
+    "air_date": "March 09, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "107",
+    "title": "Bingo",
+    "season": "1",
+    "air_date": "March 16, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "108",
+    "title": "RICO",
+    "season": "1",
+    "air_date": "March 23, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "109",
+    "title": "Pimento",
+    "season": "1",
+    "air_date": "March 30, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "110",
+    "title": "Marco",
+    "season": "1",
+    "air_date": "April 06, 2015",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "201",
+    "title": "Switch",
+    "season": "2",
+    "air_date": "February 15, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "202",
+    "title": "Cobbler",
+    "season": "2",
+    "air_date": "February 22, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "203",
+    "title": "Amarillo",
+    "season": "2",
+    "air_date": "February 29, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "204",
+    "title": "Gloves Off",
+    "season": "2",
+    "air_date": "March 07, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "205",
+    "title": "Rebecca",
+    "season": "2",
+    "air_date": "March 14, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "206",
+    "title": "Bali Ha'i",
+    "season": "2",
+    "air_date": "March 21, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "207",
+    "title": "Inflatable",
+    "season": "2",
+    "air_date": "March 28, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "208",
+    "title": "Fifi",
+    "season": "2",
+    "air_date": "April 04, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "209",
+    "title": "Nailed",
+    "season": "2",
+    "air_date": "April 11, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "210",
+    "title": "Klick",
+    "season": "2",
+    "air_date": "April 18, 2016",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "301",
+    "title": "Mabel",
+    "season": "3",
+    "air_date": "April 10, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "302",
+    "title": "Witness",
+    "season": "3",
+    "air_date": "April 17, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "303",
+    "title": "Sunk Costs",
+    "season": "3",
+    "air_date": "April 24, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "304",
+    "title": "Sabrosito",
+    "season": "3",
+    "air_date": "May 01, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "305",
+    "title": "Chicanery",
+    "season": "3",
+    "air_date": "May 08, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "306",
+    "title": "Off Brand",
+    "season": "3",
+    "air_date": "May 15, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "307",
+    "title": "Expenses",
+    "season": "3",
+    "air_date": "May 22, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "308",
+    "title": "Slip",
+    "season": "3",
+    "air_date": "June 05, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "309",
+    "title": "Fall",
+    "season": "3",
+    "air_date": "June 12, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "310",
+    "title": "Lantern",
+    "season": "3",
+    "air_date": "June 19, 2017",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "401",
+    "title": "Smoke",
+    "season": "4",
+    "air_date": "August 06, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "402",
+    "title": "Breathe",
+    "season": "4",
+    "air_date": "August 13, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "403",
+    "title": "Something Beautiful",
+    "season": "4",
+    "air_date": "August 20, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "404",
+    "title": "Talk",
+    "season": "4",
+    "air_date": "August 27, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "405",
+    "title": "Quite a Ride",
+    "season": "4",
+    "air_date": "September 03, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "406",
+    "title": "Pinata",
+    "season": "4",
+    "air_date": "September 10, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "407",
+    "title": "Something Stupid",
+    "season": "4",
+    "air_date": "September 17, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "408",
+    "title": "Coushatta",
+    "season": "4",
+    "air_date": "September 24, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "409",
+    "title": "Wiedersehen",
+    "season": "4",
+    "air_date": "October 01, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "410",
+    "title": "Winner",
+    "season": "4",
+    "air_date": "October 08, 2018",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Erhmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Nacho Varga"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "501",
+    "title": "Magic Man",
+    "season": "5",
+    "air_date": "February 23, 2020",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "502",
+    "title": "50% Off",
+    "season": "5",
+    "air_date": "February 24, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "503",
+    "title": "The Guy For This",
+    "season": "5",
+    "air_date": "March 02, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "504",
+    "title": "Namaste",
+    "season": "5",
+    "air_date": "March 09, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "505",
+    "title": "Dedicado a Max",
+    "season": "5",
+    "air_date": "March 16, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "506",
+    "title": "Wexler v. Goodman",
+    "season": "5",
+    "air_date": "March 23, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "507",
+    "title": "JMM",
+    "season": "5",
+    "air_date": "March 30, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "508",
+    "title": "Bagman",
+    "season": "5",
+    "air_date": "April 06, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "509",
+    "title": "Bad Choice Road",
+    "season": "5",
+    "air_date": "April 13, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "510",
+    "title": "Something Unforgivable",
+    "season": "5",
+    "air_date": "April 20, 2020",
+    "characters": [
+      "Jimmy McGill",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "601",
+    "title": "Wine and Roses",
+    "season": "6",
+    "air_date": "April 18, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "1",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "602",
+    "title": "Carrot and Stick",
+    "season": "6",
+    "air_date": "April 18, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "2",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "603",
+    "title": "Rock and Hard Place",
+    "season": "6",
+    "air_date": "April 25, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "3",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "604",
+    "title": "Hit and Run",
+    "season": "6",
+    "air_date": "May 2, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "4",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "605",
+    "title": "Black and Blue",
+    "season": "6",
+    "air_date": "May 9, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "5",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "606",
+    "title": "Axe and Grind",
+    "season": "6",
+    "air_date": "May 16, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "6",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "607",
+    "title": "Plan and Execution",
+    "season": "6",
+    "air_date": "May 23, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "7",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "608",
+    "title": "Point and Shoot",
+    "season": "6",
+    "air_date": "July 11, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "8",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "609",
+    "title": "Fun and Games",
+    "season": "6",
+    "air_date": "July 18, 2022",
+    "characters": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Nacho Varga",
+      "Lalo Salamanca",
+      "Gustavo Fring"
+    ],
+    "episode": "9",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "610",
+    "title": "Nippy",
+    "season": "6",
+    "air_date": "July 25, 2022",
+    "characters": ["Jimmy McGill"],
+    "episode": "10",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "611",
+    "title": "Breaking Bad",
+    "season": "6",
+    "air_date": "August 1, 2022",
+    "characters": ["Saul Goodman", "Mike Ehrmantraut"],
+    "episode": "11",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "612",
+    "title": "Waterworks",
+    "season": "6",
+    "air_date": "August 8, 2022",
+    "characters": ["Saul Goodman", "Kim Wexler"],
+    "episode": "12",
+    "series": "Better Call Saul"
+  },
+  {
+    "episode_id": "613",
+    "title": "Saul Gone",
+    "season": "6",
+    "air_date": "August 15, 2022",
+    "characters": ["Saul Goodman", "Mike Ehrmantraut", "Kim Wexler"],
+    "episode": "13",
+    "series": "Better Call Saul"
+  }
+]

@@ -1,0 +1,786 @@
+[
+	{
+		"death": "Emilio Koyama",
+		"cause": "Poisoned by phosphine gas created by mixing red phosphorus with hot water to save the lives of Walter White and Jesse Pinkman. (\"Pilot\")",
+		"responsible": "Walter White",
+		"last_words": "\"I say we cap them both.\"",
+		"season": "1",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Domingo \"Krazy-8\" Molina",
+		"cause": "Strangled to death with a bicycle lock for trying to stab Walter White. (\"...and the Bag's in the River\")",
+		"responsible": "Walter White",
+		"last_words": "\"Unlock me, Walter.\"",
+		"season": "1",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "No-Doze",
+		"cause": "Beaten to death for \"disrespecting\" Tuco Salamanca in front of Walter White and Jesse Pinkman, later succumbed to these injuries. (\"Seven Thirty-Seven\")",
+		"responsible": "Tuco Salamanca",
+		"last_words": "\"No Tuco, come on, I'm just...I'm just saying.\"",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Gonzo",
+		"cause": "Accidentally crushed his arm by a settling car in a junkyard while moving No-Doze's body, which partially severed his arm and caused him to bleed to death. (\"Seven Thirty-Seven\")",
+		"responsible": "Himself (accidentally)",
+		"last_words": "\"It's not very Christian.\"",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Tuco Salamanca",
+		"cause": "Shot in the forehead during a shootout with Hank Schrader. (\"Grilled\")",
+		"responsible": "Hank Schrader",
+		"last_words": "\"Tell me what you did!\"",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Convenience store clerk",
+		"cause": "Stabbed during the theft of an ATM. (\"Peekaboo\")",
+		"responsible": "Spooge",
+		"last_words": "Unknown",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Spooge",
+		"cause": "Head crushed with an ATM for insulting his wife. (\"Peekaboo\")",
+		"responsible": "Spooge's Lady",
+		"last_words": "\"Skank!\"",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Tortuga",
+		"cause": "Decapitated with a machete for being a DEA informant. (\"Negro y Azul\")",
+		"responsible": "Marco Salamanca",
+		"last_words": "\"Gracias, jefe.\" (\"Thank you, boss.\")",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Unnamed Federale",
+		"cause": "Blown up with a bomb placed on a tortoise. (\"Negro y Azul\")",
+		"responsible": "The Cousins",
+		"last_words": "Unknown",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Christian \"Combo\" Ortega",
+		"cause": "Shot several times in the abdomen and in the back for dealing on rival territory. (\"Mandala\")",
+		"responsible": "Tomás Cantillo, on orders from the Rival Dealers",
+		"last_words": "\"What are you waiting for? Go!\"",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Jane Margolis",
+		"cause": "Asphyxiated on her own vomit while on heroin. Allowed to die by Walter White because of the threat she posed to his business and relationship with Jesse Pinkman. (\"Phoenix\")",
+		"responsible": "Herself, via being inadvertently flipped onto her back by Walter White",
+		"last_words": "Unknown",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "167 unnamed passengers on the Wayfarer 515 and JM 21 flights",
+		"cause": "Mid-air collision inadvertently caused by Donald Margolis, who was suffering emotional strain after the death of his daughter. (\"ABQ\")",
+		"responsible": "Donald Margolis (by extension of Walter White's actions)",
+		"last_words": "Unknown",
+		"season": "2",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "10 Mexican passengers, including Olive Oil",
+		"cause": "Shot at close proximity, then left in the back of a truck while it was set afire. Olive Oil was killed for recognizing Leonel and Marco Salamanca as cartel members, and the other passengers were killed to cover up. (\"No Más\")",
+		"responsible": "Leonel and Marco Salamanca",
+		"last_words": "\"¿Qué tiene en la punta? Un poco de plata...\"\n(\"Hey, what's on the toes there? Little silver...\") (Olive Oil) Unknown/Varies (Others)",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Coyote driver",
+		"cause": "Shot in the back while running away, then in the head to finish him. Killed to cover up the murder of Olive Oil and the other passengers. (\"No Más\")",
+		"responsible": "Leonel Salamanca",
+		"last_words": "\"What the hell's going on in there?\"",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Mrs. Peyketewa",
+		"cause": "Killed in an unspecified manner, possibly shot or struck with an axe. Killed so Leonel and Marco Salamanca could take residence in her house. (\"Sunset\")",
+		"responsible": "Leonel and Marco Salamanca",
+		"last_words": "Unknown",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Deputy Bobby Kee",
+		"cause": "Struck in the back with an axe for investigating the murder of Mrs. Peyketewa. (\"Sunset\")",
+		"responsible": "Marco Salamanca",
+		"last_words": "\"On your knees or I'll fire!\"",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Unnamed man",
+		"cause": "Shot once in the chest and head at point blank range for being present during the assassination attempt of Hank Schrader. (\"One Minute\")",
+		"responsible": "Marco Salamanca",
+		"last_words": "\"Jesus.\"",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Marco Salamanca",
+		"cause": "Shot once in the head with a hollow point bullet after attempting to murder Hank Schrader. (\"One Minute\")",
+		"responsible": "Hank Schrader, via manipulation by Gustavo Fring",
+		"last_words": "\"No. Muy fácil.\" (\"Too easy.\")",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Leonel Salamanca",
+		"cause": "Poisoned with an unknown substance to prevent Juan Bolsa from finding out Gustavo Fring sanctioned the hit on Hank Schrader. (\"I See You\")",
+		"responsible": "Mike Ehrmantraut, on orders from Gustavo Fring",
+		"last_words": "\"Terminalo.\" (\"Finish him.\")",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Two bodyguards of Juan Bolsa",
+		"cause": "Shot repeatedly after federales were lured to Juan Bolsa's home by Gustavo Fring. (\"I See You\")",
+		"responsible": "Mexican federales, via manipulation by Gustavo Fring",
+		"last_words": "Unknown/Varies",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Juan Bolsa",
+		"cause": "Shot repeatedly after federales were lured to his home by Gustavo Fring. (\"I See You\")",
+		"responsible": "Mexican federales, via manipulation by Gustavo Fring",
+		"last_words": "\"What the hell is going on?\"",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Tomás Cantillo",
+		"cause": "Unknown (presumably shot). Possibly killed to tie up loose ends related to Gustavo Fring's use of children in his business. (\"Half Measures\")",
+		"responsible": "Rival Dealers, possibly on orders from Gustavo Fring",
+		"last_words": "Unknown",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "The two Rival Dealers",
+		"cause": "Ran over by a car and then shot once in the head to save the life of Jesse Pinkman. (\"Half Measures\")",
+		"responsible": "Walter White",
+		"last_words": "Unknown/Varies",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "4 Cartel assassins",
+		"cause": "Shot repeatedly to save Duane Chow. (\"Full Measure\")",
+		"responsible": "Mike Ehrmantraut, on orders from Gustavo Fring in order to save/with assistance from Duane Chow",
+		"last_words": "Unknown/Varies",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Gale Boetticher",
+		"cause": "Shot once in the face to save the life of Walter White. (\"Full Measure\")",
+		"responsible": "Jesse Pinkman, on orders from Walter White",
+		"last_words": "\"You don't have to do this.\"",
+		"season": "3",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Victor",
+		"cause": "Throat slit with a boxcutter, bled to death. Killed for being a risk to Gustavo Fring's business by being spotted at the scene of Gale Boetticher's murder. (\"Box Cutter\")",
+		"responsible": "Gustavo Fring",
+		"last_words": "\"The steps never change, and I know every step.\"",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Los Pollos Hermanos Driver",
+		"cause": "Shot at close proximity during a Los Pollos Hermanos truck robbery. (\"Bullet Points\")",
+		"responsible": "Cartel assassins",
+		"last_words": "\"No, no, no!\"",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Two Cartel assassins",
+		"cause": "Shot to death for attempting to rob a Los Pollos Hermanos truck. (\"Bullet Points\")",
+		"responsible": "Mike Ehrmantraut",
+		"last_words": "Unknown/Varies",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Los Pollos Hermanos Driver",
+		"cause": "Shot multiple times during a Los Pollos Hermanos truck robbery. (\"Cornered\")",
+		"responsible": "Cartel assassins",
+		"last_words": "\"No, no no no no!\"",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Two Los Pollos Hermanos guards",
+		"cause": "Suffocated by exhaust fumes while locked in the back of a Los Pollos Hermanos truck during a robbery. (\"Cornered\")",
+		"responsible": "Cartel assassins",
+		"last_words": "(Gasping for air)",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Maximino \"Max\" Arciniega",
+		"cause": "Shot once in the head for offending Don Eladio. (\"Hermanos\")",
+		"responsible": "Hector Salamanca",
+		"last_words": "\"¡Por favor, se lo ju-!\"\n(\"¡I swear to God!\")",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Nick",
+		"cause": "Shot by a sniper rifle during an attempt to take out Gus Fring's employees. (\"Bug\")",
+		"responsible": "Gaff",
+		"last_words": "Unknown",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "10 Cartel members, including Don Paco, Don Cesar, Don Renaldo, Don Artuno, Don Cisco, Don Luis, Don Escalada, Benicio Fuentes and Miguel \t \t \t \t\t \t\t \t\t \t\t\tOverhead view of the 11 bodies (including Eladio and Gaff and excluding Miguel in the house)",
+		"cause": "Poisoned tequila, killed so Gustavo Fring could destroy the Cartel. (\"Salud\")",
+		"responsible": "Gustavo Fring",
+		"last_words": "\"¿Si, jefe?\" (\"¿Yeah, boss?\") (Miguel)\nUnknown/Varies (others)",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Gaff",
+		"cause": "Garroted with fiberwire so he could not interfere with Gustavo Fring's murder of cartel leaders. (\"Salud\")",
+		"responsible": "Mike Ehrmantraut, on orders from Gustavo Fring",
+		"last_words": "\"¡Salud!\" (\"To health!\")",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Eladio Vuente",
+		"cause": "Poisoned tequila, both to destroy the Cartel and as revenge for the murder of Max Arciniega. (\"Salud\")",
+		"responsible": "Gustavo Fring",
+		"last_words": "\"¿Tú?\" (\"You?\")",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Joaquin Salamanca",
+		"cause": "Shot several times in the chest and abdomen so Gustavo Fring, Mike Ehrmantraut, and Jesse Pinkman could escape. (\"Salud\")",
+		"responsible": "Jesse Pinkman",
+		"last_words": "Unknown",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Hector Salamanca",
+		"cause": "Suicide bombed by a pipe bomb detonated from a wheelchair bell to kill Gustavo Fring to avenge the murders of Hector Salamanca's family members and Cartel allies. (\"Face Off\")",
+		"responsible": "Himself (with assistance from Walter White)",
+		"last_words": "\"It is! It is personal–\"",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Tyrus Kitt",
+		"cause": "Blown up by a pipe bomb detonated by a wheelchair bell for being present during Hector Salamanca's suicide bombing. (\"Face Off\")",
+		"responsible": "Hector Salamanca (with assistance from Walter White)",
+		"last_words": "\"It's clear.\"",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Gustavo Fring",
+		"cause": "Right side of face almost completely blown off by a pipe bomb detonated by a wheelchair bell. Several third degree burns on skin. Killed in revenge for destroying the Cartel and killing the last of the Salamancas. (\"Face Off\")",
+		"responsible": "Hector Salamanca (with assistance from Walter White)",
+		"last_words": "\"Last chance to look at me, Hector.\"",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Two superlab guards, including Gus' Operative",
+		"cause": "Shot several times with a .38 snubnosed revolver to save the life of Jesse Pinkman. (\"Face Off\")",
+		"responsible": "Walter White",
+		"last_words": "\"What, you got a problem with stairs?\" (first guard)\nUnknown (second guard)",
+		"season": "4",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Peter Schuler",
+		"cause": "Committed suicide to avoid criminal charges connected to Gustavo Fring. Placed one end of a defibrillator in his mouth and the other over his heart, electrocuting himself to death. (\"Madrigal\")",
+		"responsible": "Himself",
+		"last_words": "\"Ja, Frau Tromel.\" (\"Yes, Ms. Tromel.\")",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Duane Chow",
+		"cause": "Shot once in the head to fulfill a hit contract. (\"Madrigal\")",
+		"responsible": "Chris Mara on orders from Lydia Rodarte-Quayle",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Chris Mara",
+		"cause": "Shot repeatedly in the chest with a silenced pistol for attempting to kill Mike Ehrmantraut. (\"Madrigal\")",
+		"responsible": "Mike Ehrmantraut",
+		"last_words": "\"Listen, Mike–\"",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Drew Sharp",
+		"cause": "Shot once in the chest with a pistol for being present during Walter White's train robbery. (\"Dead Freight\")",
+		"responsible": "Todd Alquist",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Mike Ehrmantraut",
+		"cause": "Shot once in the gut with a .357 caliber revolver, bled out. Killed for refusing to give the names of his men to Walter White and insulting him. (\"Say My Name\")",
+		"responsible": "Walter White",
+		"last_words": "\"Shut the fuck up, and let me die in peace.\"",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Dan Wachsberger",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate members of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "(Screaming)",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Ron Forenall",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate members of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "\"HEY!\"",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Andrew Holt",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate member of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Jack McGann",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate members of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Isaac Conley",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate members of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Harris Boivin",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate members of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Raymond Martinez",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate member(s) of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Anthony Perez",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate members of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "William Moniz",
+		"cause": "Stabbed to death to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate members of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "Unknown",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Dennis Markowski",
+		"cause": "Doused in rubbing alcohol, set on fire and burned alive to cover up involvement with Walter White's business. (\"Gliding Over All\")",
+		"responsible": "Prison inmate members of Jack Welker's Gang, on orders from Jack Welker who was contracted by Walter White",
+		"last_words": "\"Help me!\"",
+		"season": "5a",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Nine of Declan's men, including his cook",
+		"cause": "Shot repeatedly for refusing to cooperate with Lydia Rodarte-Quayle. (\"Buried\")",
+		"responsible": "Jack Welker's Gang, on orders from Lydia Rodarte-Quayle and Jack Welker",
+		"last_words": "Unknown/Varies",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Declan",
+		"cause": "Shot once in the head for refusing to cooperate with Lydia Rodarte-Quayle. (\"Buried\")",
+		"responsible": "Jack Welker, on orders from Lydia Rodarte-Quayle",
+		"last_words": "\"You stay here.\"",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Steven Gomez",
+		"cause": "Shot several times during a shootout with Jack Welker's gang. (\"Ozymandias\")",
+		"responsible": "Jack Welker and his gang",
+		"last_words": "”You heard the man! Put ‘em down!”",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Henry \"Hank\" Schrader",
+		"cause": "Shot once in the head after a shootout with Jack Welker's gang. (\"Ozymandias\")",
+		"responsible": "Jack Welker",
+		"last_words": "\"Do what you're gonna do-\"",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Andrea Cantillo",
+		"cause": "Shot once in the head to punish Jesse Pinkman. (\"Granite State\")",
+		"responsible": "Todd Alquist",
+		"last_words": "\"Where?\"",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Six gang members, including Kenny, Matt, Frankie, and Lester",
+		"cause": "Shot repeatedly by remote-activated M60 machine gun in revenge for stealing Walter White's money and murdering Hank Schrader. (\"Felina\")",
+		"responsible": "Walter White",
+		"last_words": "\"Yeah, Toddy, get them both off!\" (Kenny)\"Yeah, you'll get them back. Just relax.\" (Frankie)\nUnknown/Varies (Others)",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Todd Alquist",
+		"cause": "Strangled to death with chain shackles, neck broken in revenge for murdering Andrea Cantillo and for imprisoning and torturing Jesse Pinkman. (\"Felina\")",
+		"responsible": "Jesse Pinkman",
+		"last_words": "\"Mr. White...\"",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Jack Welker",
+		"cause": "Shot once in the head, after being mortally wounded by 2 or 3 shots from a remote-activated M60 machine gun. Killed to avenge the murder of Hank Schrader and save Jesse Pinkman from captivity. (\"Felina\")",
+		"responsible": "Walter White",
+		"last_words": "\"You pull that trigger you'll never...\"",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Lydia Rodarte-Quayle",
+		"cause": "Fatally poisoned with ricin for betraying and working against Walter White. (\"Felina\",  \"El Camino\")",
+		"responsible": "Walter White",
+		"last_words": "\"Oh my god.\"",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Walter White",
+		"cause": "Accidentally hit by a ricocheting bullet fired by his remote-activated M60 machine gun, bled out. (\"Felina\")",
+		"responsible": "Himself (accidentally)",
+		"last_words": "\"Well, erm...  goodbye, Lydia.\"",
+		"season": "5b",
+		"series": "Breaking Bad"
+	},
+	{
+		"death": "Troy Hoffman and Jack Fensky",
+		"cause": "Shot to death in revenge for the murder of Matt Ehrmantraut. (\"Five-O\")",
+		"responsible": "Mike Ehrmantraut",
+		"last_words": "Troy: \"What do we do, man?\"\nJack: \"He's drinking himself to death. We're doing him a favor.\"",
+		"season": "1",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Marco Pasternak",
+		"cause": "Heart attack. (\"Marco\")",
+		"responsible": "N/A",
+		"last_words": "\"This was the greatest week of my life.\"",
+		"season": "1",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "An unnamed innocent bystander (AKA Good Samaritan)",
+		"cause": "Shot once in the face (offscreen). Killed for discovering Mike Ehrmantraut's robbery and to cover it up. (\"Nailed\")",
+		"responsible": "Hector Salamanca",
+		"last_words": "Unknown",
+		"season": "2",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Ruth McGill",
+		"cause": "Natural casues. (\"Klick\")",
+		"responsible": "N/A",
+		"last_words": "\"Jimmy?\"",
+		"season": "2",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Ximenez Lecerda",
+		"cause": "Shot once in the head for being robbed by Mike Ehrmantraut. (\"Klick\")",
+		"responsible": "The Cousins, on Hector Salamanca's orders",
+		"last_words": "\"Por favor!\"",
+		"season": "2",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Charles \"Chuck\" McGill",
+		"cause": "Suicide by fire after being bought out by Hamlin, Hamlin & McGill (HHM) and having his credibility destroyed by Jimmy McGill. (\"Lantern\")",
+		"responsible": "Himself",
+		"last_words": "\"Thank you, goodbye.\"",
+		"season": "3",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Arturo Colon",
+		"cause": "Suffocated with a plastic bag for going against Gustavo Fring. (\"Breathe\")",
+		"responsible": "Gustavo Fring",
+		"last_words": "\"That's how you do it. We had them pissing their pants.\"",
+		"season": "4",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "21+ Espinosa Gang members",
+		"cause": "Shot to death during a shootout with Nacho Varga and The Cousins. (\"Talk\")",
+		"responsible": "One by Nacho Varga, the others by the Cousins",
+		"last_words": "\"That's the only way you're walking out of here alive.\"",
+		"season": "4",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Geraldine Strauss",
+		"cause": "Heart failure. (offscreen) (\"Piñata\")",
+		"responsible": "N/A",
+		"last_words": "Unknown",
+		"season": "4",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Fred Whalen",
+		"cause": "Blunt force trauma for being present during Lalo Salamanca's hunt for Werner Ziegler. (off-screen, confirmed in the police report in \"Wexler v. Goodman\")",
+		"responsible": "Lalo Salamanca",
+		"last_words": "Unknown",
+		"season": "4",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Werner Ziegler",
+		"cause": "Shot to death for attempting to quit on Gustavo Fring's construction of the Superlab. (\"Winner\")",
+		"responsible": "Mike Ehrmantraut on Gustavo Fring’s orders",
+		"last_words": "“I will walk out there to get a better look.”",
+		"season": "4",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Unknown number of people (presumably 2 rival members)",
+		"cause": "Unknown, off-camera (\"Bagman\")",
+		"responsible": "The Cartel",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Matador",
+		"cause": "Shot in the neck to save the life of Jimmy McGill. (\"Bagman\")",
+		"responsible": "Mike Ehrmantraut",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Unnamed Colombian Gang member",
+		"cause": "Shot in the eye to save the life of Jimmy McGill. (\"Bagman\")",
+		"responsible": "Mike Ehrmantraut",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Jefe",
+		"cause": "Shot in the chest to save the life of Jimmy McGill. (\"Bagman\")",
+		"responsible": "Mike Ehrmantraut",
+		"last_words": "\"¡Cúbrete!\" (\"Take cover!\")",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Unnamed Colombian Gang member",
+		"cause": "Shot in the head to save the life of Jimmy McGill. (\"Bagman\")",
+		"responsible": "Mike Ehrmantraut",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Unnamed Colombian Gang member",
+		"cause": "Shot in the chest and then executed with a head shot to save the life of Jimmy McGill. (\"Bagman\")",
+		"responsible": "Mike Ehrmantraut",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Tiburón",
+		"cause": "Shot to death to save the lives of Jimmy McGill and Mike Ehrmantraut. (\"Bagman\")",
+		"responsible": "Mike Ehrmantraut with assistance from Jimmy McGill",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Ciro",
+		"cause": "Shot to death, used as a human shield by Lalo Salamanca so he could escape from the mercenaries. (\"Something Unforgivable\")",
+		"responsible": "Unnamed Mercenary",
+		"last_words": "\"It wasn't me!\"",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Miguel",
+		"cause": "Shot to death for being in Lalo Salmanca's house during the attempt on his life. (\"Something Unforgivable\")",
+		"responsible": "Unnamed Mercenary",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Cecilio",
+		"cause": "Shot to death for being in Lalo Salmanca's house during the attempt on his life. (\"Something Unforgivable\")",
+		"responsible": "Unnamed Mercenary",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Yolanda",
+		"cause": "Shot to death for being in Lalo Salmanca's house during the attempt on his life. (\"Something Unforgivable\")",
+		"responsible": "Unnamed Mercenary",
+		"last_words": "N/A",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "5 to 7 unnamed mercenaries",
+		"cause": "Shot to death for attempting to kill Lalo Salamanca. (\"Something Unforgivable\")",
+		"responsible": "Lalo Salamanca",
+		"last_words": "Varies",
+		"season": "5",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Sylvia Ramos",
+		"cause": "Stabbed to death for knowing Lalo Salamanca was still alive. (\"Wine and Roses\")",
+		"responsible": "Lalo Salamanca",
+		"last_words": "\"You're sure about breakfast?\" (in Spanish)",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Mateo Ramos",
+		"cause": "Stabbed to death to use as a body double for Lalo Salamanca. (\"Wine and Roses\")",
+		"responsible": "Lalo Salamanca",
+		"last_words": "\"It's all right?\" (in Spanish)",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Two Coyotes",
+		"cause": "Shot for insulting Lalo Salamanca. (\"Wine and Roses\")",
+		"responsible": "Lalo Salamanca",
+		"last_words": "\"There's no refunds, asshole.\"",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Cartel hitman",
+		"cause": "Shot several times in the chest while trying to capture Nacho Varga. (\"Carrot and Stick\")",
+		"responsible": "Nacho Varga",
+		"last_words": "\"¡Aquí! ¡Aquí!\" (\"Here! Here!\")",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Cartel hitman",
+		"cause": "Shot in the back for trying to kill Nacho Varga, while the Cousins want to capture him alive. (\"Carrot and Stick\")",
+		"responsible": "Marco Salamanca",
+		"last_words": "N/A",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Ignacio \"Nacho\" Varga",
+		"cause": "Shot himself in the head to protect his father Manuel Varga from the Cartel and to avoid being killed by anyone else. (\"Rock and Hard Place\")",
+		"responsible": "Himself",
+		"last_words": "\"So when you are sitting in your shitty nursing home, and you're sucking down on your Jell-O night after night for the rest of your life, you think of me, you twisted fuck!\"",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Casper",
+		"cause": "Most likely killed after being interrogated by Lalo Salamanca due to seeing Lalo's face and to avoid leaving any trace of his whereabouts. (\"Axe and Grind\")",
+		"responsible": "Lalo Salamanca",
+		"last_words": "\"What have you done to her?!\"",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Howard Hamlin",
+		"cause": "Shot in the head due to seeing Lalo Salamanca's face and to avoid leaving any trace of his whereabouts. (\"Plan and Execution\")",
+		"responsible": "Lalo Salamanca",
+		"last_words": "\"I, uh... I think I'm in the middle of something, uh... There's really no need to—\"",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "4 of Gus' men",
+		"cause": "Shot in an ambush to leave Gustavo Fring unguarded (\"Point and Shoot\")",
+		"responsible": "Lalo Salamanca",
+		"last_words": "Unknown",
+		"season": "6",
+		"series": "Better Call Saul"
+	},
+	{
+		"death": "Eduardo \"Lalo\" Salamanca",
+		"cause": "Suffocated on his own blood after being shot in the neck during a gunfight. (\"Point and Shoot\")",
+		"responsible": "Gustavo Fring",
+		"last_words": "\"Big talk. You done?\"",
+		"season": "6",
+		"series": "Better Call Saul"
+	}
+]
