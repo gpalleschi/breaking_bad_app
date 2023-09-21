@@ -16,8 +16,11 @@ class DeathCard extends StatelessWidget {
         onTap: () { Navigator.push(context, MaterialPageRoute(builder: (BuildContext context) => DeathScreen(idxDeath: idxDeath,)));}, 
         child: Stack(
           children: [
+            Positioned(left: 15, top:5, child: Container(color: Colors.grey[350], width: MediaQuery.of(context).size.width-45, height: 160,  )),
+            Positioned(left: 15, top:10, child: Container(color: Colors.grey[300], width: MediaQuery.of(context).size.width-50, height: 160,  )),
+            Positioned(left: 15, top:15, child: Container(color: Colors.grey[400], width: MediaQuery.of(context).size.width-55, height: 160,  )),
             PoliceFolder(),
-            Positioned(left: 15, top: 5, child: Image.asset('assets/Albuquerque_Police_Department.png', width: MediaQuery.of(context).size.width*0.20)),
+            Positioned(left: 15, top: 5, child: Transform.rotate(angle: -0.21,child : Image.asset('assets/Albuquerque_Police_Department.png', width: MediaQuery.of(context).size.width*0.20))),
             Positioned.fill(child: Align(alignment: Alignment.center, child: Container( width: MediaQuery.of(context).size.width-100 , child: Text(death, style: TextStyle(fontFamily: 'MomsTypeWriter', color: Colors.black87, fontSize: 18, fontWeight: FontWeight.bold ))))),
             Positioned(
               bottom: 30,
@@ -29,7 +32,7 @@ class DeathCard extends StatelessWidget {
                 padding: const EdgeInsets.all(5.0),
                 child: Text('Classified', style: TextStyle(color: Colors.red.withOpacity(0.5), fontSize: 30),),
               ))),
-            )
+            ),
           ],
         ),
       ),
@@ -58,9 +61,7 @@ class PoliceFolderPainter extends CustomPainter {
     final paint = Paint()
       ..color = Color(0xffCEB086)
       ..style = PaintingStyle.fill;
-
     final path = Path();
-
     // Disegna il corpo della cartella
     path.moveTo(10, 0);
     path.lineTo(size.width/2-10 , 0);

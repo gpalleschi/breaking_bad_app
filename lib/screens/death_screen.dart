@@ -26,13 +26,14 @@ class DeathScreen extends StatelessWidget {
     final size = MediaQuery.of(context).size;
 
     return Scaffold(
+      backgroundColor: Colors.grey[350],
       body: SafeArea(
         child: SingleChildScrollView(
         keyboardDismissBehavior: ScrollViewKeyboardDismissBehavior.onDrag,
           child: Column(
             children: [
               Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 10),
+                padding: const EdgeInsets.only(left: 10, right: 10, top:10 ),
                 child: Column(
                   children: [
                     Column(

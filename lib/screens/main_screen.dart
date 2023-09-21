@@ -39,7 +39,7 @@ class MainScreen extends StatelessWidget {
                if ( deaths[idx].death.length > 60 ) {
                   deathValue = deaths[idx].death.substring(0,60) + '...';
                }
-               items.add(FadeIn(child: DeathCard(death: deathValue, idxDeath: idx,)));
+               items.add(BounceInLeft(child: DeathCard(death: deathValue, idxDeath: idx,)));
            }
 
         } else {
@@ -64,7 +64,7 @@ class MainScreen extends StatelessWidget {
           floating: true,
           delegate: _SliverCustomHeaderDelegate(child: Container( alignment: Alignment.centerLeft, color: Colors.white, child: SliderHeader(heightSliver: heightSliver,)), maxheigth: heightSliver, minheigth: heightSliver)
         ),
-        SliverList(delegate: SliverChildListDelegate([...items, SizedBox(height: 100,)])),
+        SliverList(delegate: SliverChildListDelegate([...items, const SizedBox(height: 100,)])) 
       ],
     ) 
       )
