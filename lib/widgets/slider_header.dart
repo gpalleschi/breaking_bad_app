@@ -103,9 +103,28 @@ class _SearchButton extends StatelessWidget {
                       Navigator.pop(context);
                     },
                   );
-              } else if ( bbProvider.menuSelected == 'Quotes') {
-                  
+              } else if ( bbProvider.menuSelected == 'Deaths') {
+                  await FilterListDialog.display<DeathsBb>(
+                    context,
+                    height: double.infinity,
+                    themeData: _FilterListThemeData(context, bbColor3, bbColor2),
+                    listData: bbProvider.deathsToSel,
+                    selectedListData: bbProvider.deaths,
+                    choiceChipLabel: (death) {
+                      return death!.death;
+                    },
+                    validateSelectedItem: (list, val) => list!.contains(val),
+                    onItemSearch: (death, query) {
+                      return death.death!.toLowerCase().contains(query.toLowerCase());
+                    },
+                    onApplyButtonClick: (list) {
+                      print('Deaths Selected : ${list!.length}');
+                      bbProvider.deaths = list!;
+                      Navigator.pop(context);
+                    },
+                  );
 
+              } else if ( bbProvider.menuSelected == 'Quotes') {
                   await FilterListDialog.display<QuotesBb>(
                     context,
                     height: double.infinity,

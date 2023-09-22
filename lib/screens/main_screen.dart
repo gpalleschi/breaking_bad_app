@@ -5,7 +5,9 @@ import 'package:breaking_bad/widgets/death_card.dart';
 import 'package:breaking_bad/widgets/quote_card.dart';
 import 'package:breaking_bad/widgets/widgets.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_card_swiper/flutter_card_swiper.dart';
 import 'package:provider/provider.dart';
+import 'dart:math' as math;
 
 class MainScreen extends StatelessWidget {
    
@@ -17,7 +19,6 @@ class MainScreen extends StatelessWidget {
 
     final characters = bbProvider.characters;
     final quotes = bbProvider.quotes;
-    final deaths = bbProvider.deaths;
 
     final List<Widget> items = [];
 
@@ -34,17 +35,10 @@ class MainScreen extends StatelessWidget {
            } 
         } else 
         if ( bbProvider.menuSelected == 'Deaths') {
-           for (int idx=0; idx<deaths.length;idx++) {
-               String deathValue = deaths[idx].death;
-               if ( deaths[idx].death.length > 60 ) {
-                  deathValue = deaths[idx].death.substring(0,60) + '...';
-               }
-               items.add(BounceInLeft(child: DeathCard(death: deathValue, idxDeath: idx,)));
-           }
-
+           bbProvider.setItesDeaths();
         } else {
-           items.add(Padding(
-             padding: const EdgeInsets.all(8.0),
+           items.add(const Padding(
+             padding: EdgeInsets.all(8.0),
              child: Column(children : [
                  DeathCard(death: 'Pippo', idxDeath: 1,), ]
                ),
@@ -58,7 +52,31 @@ class MainScreen extends StatelessWidget {
 
     return Scaffold(
       body: SafeArea(
-        child: CustomScrollView(
+        child: bbProvider.menuSelected == 'Deaths' ?
+          Column(children: [SliderHeader(heightSliver: heightSliver),
+          Flexible(
+            child: Stack(
+              children: [
+                Positioned(top:30, left: 40, child: Transform.rotate(angle: 0.35,
+                child: Image.asset('assets/gunn.png', width: MediaQuery.of(context).size.width*0.5))),
+                Positioned(top:40, right:90, child: Transform.rotate(angle: math.pi/2.9,child: Image.asset('assets/cartridge.png', width: MediaQuery.of(context).size.width*0.15))),
+                Positioned(top:80, right:30, child: Transform.rotate(angle: -.40,child: Image.asset('assets/cartridge.png', width: MediaQuery.of(context).size.width*0.15))),
+                Positioned(bottom:50, left:100, child: Transform.rotate(angle: .83,child: Image.asset('assets/cartridge.png', width: MediaQuery.of(context).size.width*0.15))),
+                Positioned(bottom:30, right:30, child: Transform.rotate(angle: -math.pi/1.2,child: Image.asset('assets/cartridge.png', width: MediaQuery.of(context).size.width*0.15))),
+                Positioned(bottom:40, left:20, child: Transform.rotate(angle: -math.pi/1,child: Image.asset('assets/cartridge.png', width: MediaQuery.of(context).size.width*0.15))),
+                Positioned(bottom:60, left:MediaQuery.of(context).size.width/2, child: Transform.rotate(angle: math.pi/1.9,child: Image.asset('assets/cartridge.png', width: MediaQuery.of(context).size.width*0.15))),
+                CardSwiper(
+                  cardsCount: bbProvider.itemsDeaths.length,
+                  numberOfCardsDisplayed: bbProvider.itemsDeaths.length > 2 ? 3 : (bbProvider.itemsDeaths.length == 2 ? 2 : 1) ,
+                  backCardOffset: const Offset(0, 25),
+                  cardBuilder: (context, index, percentThresholdX, percentThresholdY) => bbProvider.itemsDeaths[index],
+                ),
+              ],
+            ),
+          ),
+          ],)
+        :
+        CustomScrollView(
       slivers: [
         SliverPersistentHeader(
           floating: true,

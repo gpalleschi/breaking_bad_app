@@ -1,5 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
+import 'package:breaking_bad/widgets/death_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:breaking_bad/models/models.dart';
@@ -12,6 +13,8 @@ class BbProvider extends ChangeNotifier {
     late List<DeathsBb> _deathsJson;
     late List<DeathsBb> _deaths;
     late List<DeathsBb> _deathsToSel;
+    late List<DeathsBb> _deathsU;
+    late List<DeathsBb> _deathsUToSel;
     late List<EpisodesBb> _episodesJson;
     late List<EpisodesBb> _episodes;
     late List<EpisodesBb> _episodesToSel;
@@ -54,14 +57,32 @@ class BbProvider extends ChangeNotifier {
 
     List<CharactersBb> get characters => _characters;
     List<CharactersBb> get charactersToSel => _charactersToSel;
-    List get deaths => _deaths;
-    List get deathsToSel => _deathsToSel;
+    List<DeathsBb> get deaths => _deaths;
+    List<DeathsBb> get deathsToSel => _deathsToSel;
+    List<DeathsBb> get deathsU => _deaths;
+    List<DeathsBb> get deathsToSelU => _deathsToSel;
+
     List get episodes => _episodes;
 
     List<QuotesBb> get quotes => _quotes;
     List<QuotesBb> get quotesToSel => _quotesToSel;
     List<QuotesBb> get quotesU => _quotesU;
     List<QuotesBb> get quotesUToSel => _quotesUToSel;
+
+    final List<Container> _itemsDeaths = [];
+
+    void setItesDeaths() {
+      _itemsDeaths.clear();
+      for (int idx=0; idx<deaths.length;idx++) {
+                String deathValue = deaths[idx].death;
+                if ( deaths[idx].death.length > 60 ) {
+                    deathValue = '${deaths[idx].death.substring(0,60)}...';
+                }
+                _itemsDeaths.add( Container( child: DeathCard(death: deathValue, idxDeath: idx,)));
+            }
+    }
+
+    List<Container> get itemsDeaths => _itemsDeaths;
 
     set characters(List<CharactersBb> sel) {
       _characters = sel;
@@ -70,6 +91,12 @@ class BbProvider extends ChangeNotifier {
 
     set quotes(List<QuotesBb> sel) {
       _quotes = sel;
+      notifyListeners();
+    }
+
+    set deaths(List<DeathsBb> sel) {
+      _deaths = sel;
+      setItesDeaths();
       notifyListeners();
     }
   

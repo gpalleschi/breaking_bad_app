@@ -39,6 +39,7 @@ dependencies:
   animate_do: ^3.0.2
   font_awesome_flutter: ^10.5.0
   filter_list: ^1.0.2
+  flutter_card_swiper: ^6.0.0
 
 dev_dependencies:
   flutter_test:
