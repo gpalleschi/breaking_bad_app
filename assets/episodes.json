@@ -15,7 +15,8 @@
       "Bogdan Wolynetz"
     ],
     "episode": "1",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Diagnosed with terminal lung cancer, chemistry teacher Walter White teams up with former student Jesse Pinkman to cook and sell crystal meth."
   },
   {
     "episode_id": "102",
@@ -30,7 +31,8 @@
       "Krazy-8"
     ],
     "episode": "2",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "After their first drug deal goes terribly wrong, Walt and Jesse are forced to deal with a corpse and a prisoner. Meanwhile, Skyler grows suspicious of Walt's activities."
   },
   {
     "episode_id": "103",
@@ -48,7 +50,8 @@
       "Gretchen Schwartz"
     ],
     "episode": "3",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse clean up after the bathtub incident before Walt decides what course of action to take with their prisoner Krazy-8."
   },
   {
     "episode_id": "104",
@@ -65,7 +68,8 @@
       "Ken Wins"
     ],
     "episode": "4",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt tells the rest of his family about his cancer. Jesse tries to make amends with his own parents."
   },
   {
     "episode_id": "105",
@@ -84,7 +88,8 @@
       "Badger"
     ],
     "episode": "5",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt rejects everyone who tries to help him with the cancer. Jesse tries his best to create Walt's meth, with the help of an old friend."
   },
   {
     "episode_id": "106",
@@ -101,7 +106,8 @@
       "Tuco Salamanca"
     ],
     "episode": "6",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "With the side effects and cost of his treatment mounting, Walt demands that Jesse finds a wholesaler to buy their drugs - which lands him in trouble."
   },
   {
     "episode_id": " 107",
@@ -118,7 +124,8 @@
       "Tuco Salamanca"
     ],
     "episode": "7",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse try to up their game by making more of the crystal every week for Tuco. Unfortunately, some of the ingredients they need are not easy to find. Meanwhile, Skyler realizes that her sister is a shoplifter."
   },
   {
     "episode_id": "201",
@@ -135,7 +142,8 @@
       "Tuco Salamanca"
     ],
     "episode": "1",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse realize how dire their situation is. They must come up with a plan to kill Tuco before Tuco kills them first."
   },
   {
     "episode_id": "202",
@@ -153,7 +161,8 @@
       "Hector Salamanca"
     ],
     "episode": "2",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt's disappearance is met with investigation by both his wife and Hank, as Tuco Salamanca intends to leave town with his kidnapped cooks."
   },
   {
     "episode_id": "203",
@@ -170,7 +179,8 @@
       "Hector Salamanca"
     ],
     "episode": "3",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse try to come up with alibis for their disappearances."
   },
   {
     "episode_id": "204",
@@ -184,7 +194,8 @@
       "Walter White Jr."
     ],
     "episode": "4",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Skyler keeps mysteriously leaving without talking to Walt. Jesse's parents throw him out of his own house."
   },
   {
     "episode_id": "205",
@@ -202,7 +213,8 @@
       "Badger"
     ],
     "episode": "5",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse decide to start their own little empire with the help of Jesse's friends: Skinny Pete, Combo, and Badger. Meanwhile, Hank tries to pull himself together after his encounter with Tuco."
   },
   {
     "episode_id": "206",
@@ -218,7 +230,8 @@
       "Gretchen Schwartz"
     ],
     "episode": "6",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing."
   },
   {
     "episode_id": "207",
@@ -237,7 +250,8 @@
       "Ted Beneke"
     ],
     "episode": "7",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Rumor is spreading that Jesse killed the man that ripped Skinny Pete off. Walt uses this to his advantage on expanding their territory. Meanwhile, Hank has been promoted to the El Paso office. But it's not all he hoped it would be."
   },
   {
     "episode_id": "208",
@@ -255,7 +269,8 @@
       "Badger"
     ],
     "episode": "8",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Badger is caught by the DEA. Walt and Jesse hire the best criminal lawyer in town, Saul Goodman."
   },
   {
     "episode_id": "209",
@@ -273,7 +288,8 @@
       "Jane Margolis"
     ],
     "episode": "9",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse become stranded out in the middle of the desert after cooking more crystal."
   },
   {
     "episode_id": "210",
@@ -291,7 +307,8 @@
       "Ted Beneke"
     ],
     "episode": "10",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt's cancer has greatly improved. Time to celebrate. Meanwhile Jesse tries to meet his new girlfriend's father."
   },
   {
     "episode_id": "211",
@@ -310,7 +327,8 @@
       "Combo"
     ],
     "episode": "11",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse's little empire begins to crumble. Saul tries to set them up with a mysterious distributor."
   },
   {
     "episode_id": "212",
@@ -330,7 +348,8 @@
       "Donald Margolis"
     ],
     "episode": "12",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Skyler have a baby girl. Now that Jesse is hooked on heroin, Walt refuses to give him his money until he gets clean. Meanwhile, as an excuse for his money, Walt decides to donate the money to himself through his son's new website."
   },
   {
     "episode_id": "213",
@@ -350,7 +369,8 @@
       "Donald Margolis"
     ],
     "episode": "13",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt's lies have pushed Skyler to her limit. She leaves with the kids. Meanwhile, Jesse blames himself for Jane's death and goes into rehab."
   },
   {
     "episode_id": "301",
@@ -368,7 +388,8 @@
       "The cousins"
     ],
     "episode": "1",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Skyler goes through with her plans to divorce Walt. Jesse finishes rehab."
   },
   {
     "episode_id": "302",
@@ -388,7 +409,8 @@
       "Hector Salamanca"
     ],
     "episode": "2",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walter, Jr. is having a rough time accepting his parents' separation. Jesse buys his old house from his parents. Meanwhile, two mysterious men have come into town looking for Walt."
   },
   {
     "episode_id": "303",
@@ -407,7 +429,8 @@
       "Ted Beneke"
     ],
     "episode": "3",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt has moved back into the house without Skyler's consent. Now she can't get him out. Meanwhile, Jesse continues to cope with Jane's death."
   },
   {
     "episode_id": "304",
@@ -427,7 +450,8 @@
       "Ted Beneke"
     ],
     "episode": "4",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt's world crumbles even more after finding out that Skyler is cheating on him. Jesse tries to set up a meeting with Gus to try and sell his own version of the blue meth. Meanwhile, Hank is growing obsessed with finding Heisenberg."
   },
   {
     "episode_id": "305",
@@ -446,7 +470,8 @@
       "Ted Beneke"
     ],
     "episode": "5",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Gus tries to get Walt back in the business by offering him three million dollars and a brand new lab. Jesse is furious that Walt received half of the money for his blue meth. Hank tries to track down the RV meth lab."
   },
   {
     "episode_id": "306",
@@ -466,7 +491,8 @@
       "The cousins"
     ],
     "episode": "6",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Heisenberg's organized and practical assistant Gale greatly aids his work in Gus's lab. Hank finally tracks the RV back to Jesse, as a concerned Walt finds any way to erase the evidence."
   },
   {
     "episode_id": "307",
@@ -485,7 +511,8 @@
       "Gale Boetticher"
     ],
     "episode": "7",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Jesse ends up in the hospital after getting beaten up by Hank. Now he is threatening to press charges against the DEA. To stop him, Walt decides to bring Jesse on as his partner, once again."
   },
   {
     "episode_id": "308",
@@ -503,7 +530,8 @@
       "Mike Ehrmantraut"
     ],
     "episode": "8",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Hank ends up in the hospital after being attacked by Tuco's cousins. Walt spends too much time by his family's side when he should be cooking meth."
   },
   {
     "episode_id": "309",
@@ -522,7 +550,8 @@
       "Ted Beneke"
     ],
     "episode": "9",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Skyler hatches a plan as Hank's hospital bills stack up. Meanwhile, Walt and Gus come to a better understanding as Jesse, looking for more independence, pursues a new opportunity."
   },
   {
     "episode_id": "310",
@@ -531,7 +560,8 @@
     "air_date": "May 23, 2010",
     "characters": ["Walter White", "Jesse Pinkman", "a fly"],
     "episode": "10",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "There is a fly loose in the lab. Walt and Jesse must do whatever they can to kill it before it contaminates the meth."
   },
   {
     "episode_id": "311",
@@ -550,7 +580,8 @@
       "Jane Margolis"
     ],
     "episode": "11",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Skyler gets more involved in Walt's business, much to his chagrin, as Hank struggles with his recovery. Meanwhile, Jesse takes an active role in his new enterprise, leading him to a startling discovery."
   },
   {
     "episode_id": "312",
@@ -571,7 +602,8 @@
       "Victor"
     ],
     "episode": "12",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Against Walt's advice, Jesse lashes out. Fearing for Jesse's safety, Walt takes drastic action to intervene. Meanwhile a tragic event leads to a shocking confrontation."
   },
   {
     "episode_id": "313",
@@ -590,7 +622,8 @@
       "Victor"
     ],
     "episode": "13",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Jesse has disappeared and Walt is in big trouble with Gus. So Gus rehires Gale to learn from Walt's cooking so that they can dispose of Walt once and for all."
   },
   {
     "episode_id": "401",
@@ -611,7 +644,8 @@
       "Victor"
     ],
     "episode": "1",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse are held captive by Gus, after Gale's death. Meanwhile, Skyler tries to find out what happened to Walt."
   },
   {
     "episode_id": "402",
@@ -631,7 +665,8 @@
       "Andrea Cantillo"
     ],
     "episode": "2",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt attempts to form a new alliance as he plans his next move. Meanwhile Skyler pushes Walt towards a business opportunity, in hopes of protecting the family."
   },
   {
     "episode_id": "403",
@@ -648,7 +683,8 @@
       "Bogdan Wolynetz"
     ],
     "episode": "3",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "While Walt worries about Gus's interference and Jesse's increasingly fragile state of mind, Skyler steps up the pressure to get what she wants."
   },
   {
     "episode_id": "404",
@@ -668,7 +704,8 @@
       "Gale Boetticher"
     ],
     "episode": "4",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "As Skyler concocts an elaborate story to explain the Whites' finances, a worried Walt discovers that Hank has begun a new investigation."
   },
   {
     "episode_id": "405",
@@ -686,7 +723,8 @@
       "Mike Ehrmantraut"
     ],
     "episode": "5",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Jesse rides shotgun with Mike on a perilous run of pickups, prompting Walt to worry that his partner is about to be killed."
   },
   {
     "episode_id": "406",
@@ -703,7 +741,8 @@
       "Bogdan Wolynetz"
     ],
     "episode": "6",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Skyler adopts an aloof approach when she suspects that Walt isn't telling her the truth. Meanwhile, Jesse proves his worth to Mike and Gus."
   },
   {
     "episode_id": "407",
@@ -723,7 +762,8 @@
       "Gale Boetticher"
     ],
     "episode": "7",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Skyler looks to continue her family's trend of appearing poverty-stricken by forcing Walt to return the car he bought. A concerned Walt chauffeurs Hank to Los Pollos Hermanos, and the articulate yet immobile DEA agent collects prints."
   },
   {
     "episode_id": "408",
@@ -744,7 +784,8 @@
       "Andrea Cantillo"
     ],
     "episode": "8",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "When Hank produces evidence that Gus is Albuquerque's crystal meth kingpin, Walt worries that he and Jesse will be killed to protect their boss."
   },
   {
     "episode_id": "409",
@@ -762,7 +803,8 @@
       "Ted Beneke"
     ],
     "episode": "9",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "While Walt tries to subvert Hank's probe into the Albuquerque meth scene, a deadly warning forces Gus to consider a deal with the cartel."
   },
   {
     "episode_id": "410",
@@ -781,7 +823,8 @@
       "Don Eladio"
     ],
     "episode": "10",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Jesse, Gus, and Mike fly down to Mexico, and Jesse cooks the blue meth for the cartel. Walt misses his son's 16th birthday after his fight with Jesse."
   },
   {
     "episode_id": "411",
@@ -803,7 +846,8 @@
       "Andrea Cantillo"
     ],
     "episode": "11",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Hank asks Walt to drive him to the laundry where the meth lab is hidden. Ted still won't pay the IRS so Skyler asks Saul for help, and Saul sends in his A-Team. Gus and Jesse return from Mexico, and Walt fears he is in trouble with Gus."
   },
   {
     "episode_id": "412",
@@ -822,7 +866,8 @@
       "Andrea Cantillo"
     ],
     "episode": "12",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "The DEA is putting Hank and his family in protective custody; however, Walt refuses and awaits his fate in his house. Meanwhile, Brock has fallen terribly ill and Jesse suspects Walt may be behind it."
   },
   {
     "episode_id": "413",
@@ -840,7 +885,8 @@
       "Saul Goodman"
     ],
     "episode": "13",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Jesse is brought to the FBI for questioning on his knowledge of ricin. In a last effort to kill Gus, Walt must ask for help from an old enemy."
   },
   {
     "episode_id": "501",
@@ -858,7 +904,8 @@
       "Ted Beneke"
     ],
     "episode": "1",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Now that Gus is dead, Walt, Jesse, and Mike work to cover their tracks. Skyler panics when Ted Beneke wakes up."
   },
   {
     "episode_id": "502",
@@ -876,7 +923,8 @@
       "Lydia Rodarte-Quayle"
     ],
     "episode": "2",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt and Jesse seek out an unlikely partner for a new business venture. The DEA follows up new leads in its investigation."
   },
   {
     "episode_id": "503",
@@ -896,7 +944,8 @@
       "Todd Alquist"
     ],
     "episode": "3",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "The guys put a business plan into action; Walt confesses to Marie."
   },
   {
     "episode_id": "504",
@@ -914,7 +963,8 @@
       "Lydia Rodarte-Quayle"
     ],
     "episode": "4",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "It's Walt's 51st birthday. His return to the drug business causes Skyler to go into depression."
   },
   {
     "episode_id": "505",
@@ -933,7 +983,8 @@
       "Todd Alquist"
     ],
     "episode": "5",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walter White's domestic life continues to deteriorate; at the same time, his growing business venture aims to steal a train car chock full of methylamine."
   },
   {
     "episode_id": "506",
@@ -951,7 +1002,8 @@
       "Todd Alquist"
     ],
     "episode": "6",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "In the aftermath of the train heist, Jesse and Mike decide to quit the business, leaving Walt to handle things on his own. Mike is being followed by the DEA."
   },
   {
     "episode_id": "507",
@@ -968,7 +1020,8 @@
       "Todd Alquist"
     ],
     "episode": "7",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Mike and Jesse are out. Now Walt has to handle things on his own. Hank finally finds a rat in Mike's gang."
   },
   {
     "episode_id": "508",
@@ -988,7 +1041,8 @@
       "Todd Alquist"
     ],
     "episode": "8",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt expands his business overseas, and the money is pouring in."
   },
   {
     "episode_id": "509",
@@ -1008,7 +1062,8 @@
       "Skinny Pete"
     ],
     "episode": "9",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt is out of the meth business and trying to move on with his life. Jesse tries to get rid of his money. Hank now knows that Walt is the famous Heisenberg."
   },
   {
     "episode_id": "510",
@@ -1027,7 +1082,8 @@
       "Jack Welker"
     ],
     "episode": "10",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Hank is determined to bring down Walt. Walt scrambles to hide evidence before Hank gets to it, and Skyler tries to stop Hank and Marie from taking away the kids."
   },
   {
     "episode_id": "511",
@@ -1046,7 +1102,8 @@
       "Jack Welker"
     ],
     "episode": "11",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt makes his next move against Hank, putting Hank in a tough position. Hank confronts Jesse and attempts to turn him against Walt, and Jesse decides it's time to move on. Meanwhile, Todd has taken over the business."
   },
   {
     "episode_id": "512",
@@ -1063,7 +1120,8 @@
       "Saul Goodman"
     ],
     "episode": "12",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt discovers Jesse broke into his house and attempted to burn it down. Walt wants to protect his family so he moves them into a hotel for a few nights. Jesse makes plans to take down Walt."
   },
   {
     "episode_id": "513",
@@ -1084,7 +1142,8 @@
       "Jack Welker"
     ],
     "episode": "13",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Jesse and Hank come up with an idea to take Walt down. Walt hires Todd's uncle to kill Jesse."
   },
   {
     "episode_id": "514",
@@ -1103,7 +1162,8 @@
       "Steve Gomez"
     ],
     "episode": "14",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt goes on the run. Jesse is taken hostage. Marie forces Skyler to tell Walter, Jr. the truth."
   },
   {
     "episode_id": "515",
@@ -1124,7 +1184,8 @@
       "Gretchen Schwartz"
     ],
     "episode": "15",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walt struggles as he adapts to aspects of his new identity. Jesse plans an escape against Jack and his crew."
   },
   {
     "episode_id": "516",
@@ -1146,7 +1207,8 @@
       "Gretchen Schwartz"
     ],
     "episode": "16",
-    "series": "Breaking Bad"
+    "series": "Breaking Bad",
+    "synopsis" : "Walter White returns to Albuquerque one last time to secure his family's future and settle old scores."
   },
   {
     "episode_id": "101",
@@ -1162,7 +1224,8 @@
       "Nacho Varga"
     ],
     "episode": "1",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "102",
@@ -1179,7 +1242,8 @@
       "Tuco Salamanca"
     ],
     "episode": "2",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "103",
@@ -1195,7 +1259,8 @@
       "Nacho Varga"
     ],
     "episode": "3",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "104",
@@ -1211,7 +1276,8 @@
       "Nacho Varga"
     ],
     "episode": "4",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "105",
@@ -1227,7 +1293,8 @@
       "Nacho Varga"
     ],
     "episode": "5",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "106",
@@ -1243,7 +1310,8 @@
       "Nacho Varga"
     ],
     "episode": "6",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "107",
@@ -1259,7 +1327,8 @@
       "Nacho Varga"
     ],
     "episode": "7",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "108",
@@ -1275,7 +1344,8 @@
       "Nacho Varga"
     ],
     "episode": "8",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "109",
@@ -1291,7 +1361,8 @@
       "Nacho Varga"
     ],
     "episode": "9",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "110",
@@ -1307,7 +1378,8 @@
       "Nacho Varga"
     ],
     "episode": "10",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "201",
@@ -1323,7 +1395,8 @@
       "Nacho Varga"
     ],
     "episode": "1",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "202",
@@ -1339,7 +1412,8 @@
       "Nacho Varga"
     ],
     "episode": "2",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "203",
@@ -1355,7 +1429,8 @@
       "Nacho Varga"
     ],
     "episode": "3",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "204",
@@ -1371,7 +1446,8 @@
       "Nacho Varga"
     ],
     "episode": "4",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "205",
@@ -1387,7 +1463,8 @@
       "Nacho Varga"
     ],
     "episode": "5",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "206",
@@ -1403,7 +1480,8 @@
       "Nacho Varga"
     ],
     "episode": "6",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "207",
@@ -1419,7 +1497,8 @@
       "Nacho Varga"
     ],
     "episode": "7",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "208",
@@ -1435,7 +1514,8 @@
       "Nacho Varga"
     ],
     "episode": "8",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "209",
@@ -1451,7 +1531,8 @@
       "Nacho Varga"
     ],
     "episode": "9",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "210",
@@ -1467,7 +1548,8 @@
       "Nacho Varga"
     ],
     "episode": "10",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "301",
@@ -1483,7 +1565,8 @@
       "Nacho Varga"
     ],
     "episode": "1",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "302",
@@ -1499,7 +1582,8 @@
       "Nacho Varga"
     ],
     "episode": "2",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "303",
@@ -1515,7 +1599,8 @@
       "Nacho Varga"
     ],
     "episode": "3",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "304",
@@ -1531,7 +1616,8 @@
       "Nacho Varga"
     ],
     "episode": "4",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "305",
@@ -1547,7 +1633,8 @@
       "Nacho Varga"
     ],
     "episode": "5",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "306",
@@ -1563,7 +1650,8 @@
       "Nacho Varga"
     ],
     "episode": "6",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "307",
@@ -1579,7 +1667,8 @@
       "Nacho Varga"
     ],
     "episode": "7",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "308",
@@ -1595,7 +1684,8 @@
       "Nacho Varga"
     ],
     "episode": "8",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "309",
@@ -1611,7 +1701,8 @@
       "Nacho Varga"
     ],
     "episode": "9",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "310",
@@ -1627,7 +1718,8 @@
       "Nacho Varga"
     ],
     "episode": "10",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "401",
@@ -1643,7 +1735,8 @@
       "Nacho Varga"
     ],
     "episode": "1",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "402",
@@ -1659,7 +1752,8 @@
       "Nacho Varga"
     ],
     "episode": "2",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "403",
@@ -1675,7 +1769,8 @@
       "Nacho Varga"
     ],
     "episode": "3",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "404",
@@ -1691,7 +1786,8 @@
       "Nacho Varga"
     ],
     "episode": "4",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "405",
@@ -1707,7 +1803,8 @@
       "Nacho Varga"
     ],
     "episode": "5",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "406",
@@ -1723,7 +1820,8 @@
       "Nacho Varga"
     ],
     "episode": "6",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "407",
@@ -1739,7 +1837,8 @@
       "Nacho Varga"
     ],
     "episode": "7",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "408",
@@ -1755,7 +1854,8 @@
       "Nacho Varga"
     ],
     "episode": "8",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "409",
@@ -1771,7 +1871,8 @@
       "Nacho Varga"
     ],
     "episode": "9",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "410",
@@ -1787,7 +1888,8 @@
       "Nacho Varga"
     ],
     "episode": "10",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "501",
@@ -1804,7 +1906,8 @@
       "Gustavo Fring"
     ],
     "episode": "1",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "502",
@@ -1821,7 +1924,8 @@
       "Gustavo Fring"
     ],
     "episode": "2",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "503",
@@ -1838,7 +1942,8 @@
       "Gustavo Fring"
     ],
     "episode": "3",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "504",
@@ -1855,7 +1960,8 @@
       "Gustavo Fring"
     ],
     "episode": "4",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "505",
@@ -1872,7 +1978,8 @@
       "Gustavo Fring"
     ],
     "episode": "5",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "506",
@@ -1889,7 +1996,8 @@
       "Gustavo Fring"
     ],
     "episode": "6",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "507",
@@ -1906,7 +2014,8 @@
       "Gustavo Fring"
     ],
     "episode": "7",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "508",
@@ -1923,7 +2032,8 @@
       "Gustavo Fring"
     ],
     "episode": "8",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "509",
@@ -1940,7 +2050,8 @@
       "Gustavo Fring"
     ],
     "episode": "9",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "510",
@@ -1957,7 +2068,8 @@
       "Gustavo Fring"
     ],
     "episode": "10",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "601",
@@ -1974,7 +2086,8 @@
       "Gustavo Fring"
     ],
     "episode": "1",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "602",
@@ -1991,7 +2104,8 @@
       "Gustavo Fring"
     ],
     "episode": "2",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "603",
@@ -2008,7 +2122,8 @@
       "Gustavo Fring"
     ],
     "episode": "3",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "604",
@@ -2025,7 +2140,8 @@
       "Gustavo Fring"
     ],
     "episode": "4",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "605",
@@ -2042,7 +2158,8 @@
       "Gustavo Fring"
     ],
     "episode": "5",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "606",
@@ -2059,7 +2176,8 @@
       "Gustavo Fring"
     ],
     "episode": "6",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "607",
@@ -2076,7 +2194,8 @@
       "Gustavo Fring"
     ],
     "episode": "7",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "608",
@@ -2093,7 +2212,8 @@
       "Gustavo Fring"
     ],
     "episode": "8",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "609",
@@ -2110,7 +2230,8 @@
       "Gustavo Fring"
     ],
     "episode": "9",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "610",
@@ -2119,7 +2240,8 @@
     "air_date": "July 25, 2022",
     "characters": ["Jimmy McGill"],
     "episode": "10",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "611",
@@ -2128,7 +2250,8 @@
     "air_date": "August 1, 2022",
     "characters": ["Saul Goodman", "Mike Ehrmantraut"],
     "episode": "11",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "612",
@@ -2137,7 +2260,8 @@
     "air_date": "August 8, 2022",
     "characters": ["Saul Goodman", "Kim Wexler"],
     "episode": "12",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   },
   {
     "episode_id": "613",
@@ -2146,6 +2270,7 @@
     "air_date": "August 15, 2022",
     "characters": ["Saul Goodman", "Mike Ehrmantraut", "Kim Wexler"],
     "episode": "13",
-    "series": "Better Call Saul"
+    "series": "Better Call Saul",
+    "synopsis" : ""
   }
 ]

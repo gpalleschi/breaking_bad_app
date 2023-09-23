@@ -16,6 +16,7 @@ class EpisodesBb {
     List<String> characters;
     String episode;
     String series;
+    String synopsis;
 
     EpisodesBb({
         required this.episodeId,
@@ -25,6 +26,7 @@ class EpisodesBb {
         required this.characters,
         required this.episode,
         required this.series,
+        required this.synopsis,
     });
 
     factory EpisodesBb.fromMap(Map<String, dynamic> json) => EpisodesBb(
@@ -35,6 +37,7 @@ class EpisodesBb {
         characters: List<String>.from(json["characters"].map((x) => x)),
         episode: json["episode"],
         series: json["series"]!,
+        synopsis: json["synopsis"]!,
     );
 
     Map<String, dynamic> toMap() => {
@@ -45,5 +48,6 @@ class EpisodesBb {
         "characters": List<dynamic>.from(characters.map((x) => x)),
         "episode": episode,
         "series": series,
+        "synopsis": synopsis,
     };
 }

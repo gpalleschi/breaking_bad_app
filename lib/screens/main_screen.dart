@@ -7,6 +7,7 @@ import 'package:breaking_bad/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_card_swiper/flutter_card_swiper.dart';
 import 'package:provider/provider.dart';
+import 'package:expandable/expandable.dart';
 import 'dart:math' as math;
 
 class MainScreen extends StatelessWidget {
@@ -19,6 +20,7 @@ class MainScreen extends StatelessWidget {
 
     final characters = bbProvider.characters;
     final quotes = bbProvider.quotes;
+    final episodes = bbProvider.episodes;
 
     final List<Widget> items = [];
 
@@ -37,13 +39,33 @@ class MainScreen extends StatelessWidget {
         if ( bbProvider.menuSelected == 'Deaths') {
            bbProvider.setItesDeaths();
         } else {
-           items.add(const Padding(
-             padding: EdgeInsets.all(8.0),
-             child: Column(children : [
-                 DeathCard(death: 'Pippo', idxDeath: 1,), ]
-               ),
-             )
-           );
+           // Episodes
+           int idx=0;
+           String prevSeason = 'XXX';
+           for (idx=0; idx<episodes.length;idx++) {
+            if ( prevSeason != episodes[idx].season.toString().trim() ) {
+                prevSeason = episodes[idx].season.toString().trim();           
+                items.add( ExpandablePanel(
+                  theme: ExpandableThemeData(iconColor: Color(0xff154F3C), iconSize: 30),
+                  header:  Row(children: [Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Text('Season ${episodes[idx].season}', style: TextStyle(color: Color(0xff154F3C), fontWeight: FontWeight.bold, fontSize: 25, fontFamily: 'Cooper')),
+                )],), 
+                expanded: Column(children: List.generate(episodes.length, (index) {
+                  if ( episodes[index].season.toString().trim() == prevSeason ) {
+                     return Padding(
+                       padding: const EdgeInsets.only(bottom: 12.0),
+                       child: Row(children: [SizedBox(width: 20,), Text('Episode ${episodes[index].episode} : ${episodes[index].title}', style: TextStyle(color: Color(0xff154F3C), fontWeight: FontWeight.bold, fontSize: 16, fontFamily: 'Cooper'))],),
+
+                     ); 
+                  } else {
+                     return Container();
+                  }
+                  })),
+                collapsed: Container(), ) );
+            }
+            //items.add(BBEpisode(episodes[idx].episode, episodes[idx].title, episodes[idx].season, episodes[idx].airDate, episodes[idx].characters));
+           }
         }
     }
 
