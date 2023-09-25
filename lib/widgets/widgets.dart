@@ -1,4 +1,5 @@
 
+export 'package:breaking_bad/widgets/bb_arrow.dart';
 export 'package:breaking_bad/widgets/bb_header_pd.dart';
 export 'package:breaking_bad/widgets/bb_logo.dart';
 export 'package:breaking_bad/widgets/bb_text.dart';

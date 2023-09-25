@@ -1,4 +1,6 @@
+import 'package:breaking_bad/providers/bb_provider.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 
 class BBtext extends StatelessWidget {
@@ -14,14 +16,13 @@ class BBtext extends StatelessWidget {
   // First : Only first two letters of First Name, Surname, ...
   // PT1 : Periodic Table only first character in Periodic Table 
 
+  // ignore: use_key_in_widget_constructors
   const BBtext({required this.text, this.elemNum = const [12,34,45,23,45], this.type = 'first', this.sizeSquare = 40, this.sizeText = 23, this.sizeTextElemNum = 5, this.centered = true});
 
   @override
   Widget build(BuildContext context) {
 
-    final Color bbColor1 = Color(0xff0E5334);
-    final Color bbColor2 = Color(0xff154F3C);
-    final Color bbColor3 = Color(0xff078F3D);
+    final bbProvider = Provider.of<BbProvider>(context, listen: false);  
 
     final Map<String, int> periodicTable = {
         'H' : 1,
@@ -150,13 +151,12 @@ class BBtext extends StatelessWidget {
       case 'first': 
         final words = text.split(' ');
         for(int i = 0; i<words.length; i++) {
-          textBB.add(_SquareBB(bbColor1: bbColor1, bbColor2: bbColor2, text: words[i].substring(0,2), elemNum: elemNum[i], sizeText: sizeText,sizeSquare: sizeSquare, sizeTextElemNum: sizeTextElemNum),);
-          textBB.add(SizedBox(width: 2,));
-          textBB.add(_StandardBB(text: words[i].substring(2) + ' ', bbColor2: bbColor2, sizeText: sizeText,));
+          textBB.add(_SquareBB(bbColor1: bbProvider.bbColor1, bbColor2: bbProvider.bbColor2, text: words[i].substring(0,2), elemNum: elemNum[i], sizeText: sizeText,sizeSquare: sizeSquare, sizeTextElemNum: sizeTextElemNum),);
+          textBB.add(const SizedBox(width: 2,));
+          textBB.add(_StandardBB(text: '${words[i].substring(2)} ', bbColor2: bbProvider.bbColor2, sizeText: sizeText,));
         }
         break;
       case 'PT1':
-        String toAdd = '';
         String toSearch = '';
         // print('DEBUG to search : $text' );
         for(int i = 0; i<text.length; i++) {
@@ -167,40 +167,28 @@ class BBtext extends StatelessWidget {
             // print('DEBUG Search 2 chars : ${toSearch}');
 
             if ( periodicTable.containsKey(toSearch) ) {
-              if ( i > 0 ) textBB.add(SizedBox(width: 2,));
-              textBB.add(_SquareBB(bbColor1: bbColor1, bbColor2: bbColor2, text: toSearch, elemNum: periodicTable[toSearch]!, sizeText: sizeText,sizeSquare: sizeSquare, sizeTextElemNum: sizeTextElemNum),);
-              textBB.add(SizedBox(width: 2,));
-              textBB.add(_StandardBB(text: text.substring(i+2) + ' ', bbColor2: bbColor2, sizeText: sizeText,));
+              if ( i > 0 ) textBB.add(const SizedBox(width: 2,));
+              textBB.add(_SquareBB(bbColor1: bbProvider.bbColor1, bbColor2: bbProvider.bbColor2, text: toSearch, elemNum: periodicTable[toSearch]!, sizeText: sizeText,sizeSquare: sizeSquare, sizeTextElemNum: sizeTextElemNum),);
+              textBB.add(const SizedBox(width: 2,));
+              textBB.add(_StandardBB(text: '${text.substring(i+2)} ', bbColor2: bbProvider.bbColor2, sizeText: sizeText,));
               break;
             } 
             toSearch = text.substring(i,i+1).toUpperCase();
           }
           // print('DEBUG Search 1 Char : ${toSearch}');
           if ( periodicTable.containsKey(toSearch) ) {
-             textBB.add(_SquareBB(bbColor1: bbColor1, bbColor2: bbColor2, text: toSearch, elemNum: periodicTable[toSearch]!, sizeText: sizeText, sizeSquare: sizeSquare, sizeTextElemNum: sizeTextElemNum),);
-             textBB.add(SizedBox(width: 2,));
-             textBB.add(_StandardBB(text: text.substring(i+1) + ' ', bbColor2: bbColor2, sizeText: sizeText,));
+             textBB.add(_SquareBB(bbColor1: bbProvider.bbColor1, bbColor2: bbProvider.bbColor2, text: toSearch, elemNum: periodicTable[toSearch]!, sizeText: sizeText, sizeSquare: sizeSquare, sizeTextElemNum: sizeTextElemNum),);
+             textBB.add(const SizedBox(width: 2,));
+             textBB.add(_StandardBB(text: '${text.substring(i+1)} ', bbColor2: bbProvider.bbColor2, sizeText: sizeText,));
              break;
           } 
-          textBB.add(_StandardBB(text: text.substring(i,i+1) , bbColor2: bbColor2, sizeText: sizeText,));
+          textBB.add(_StandardBB(text: text.substring(i,i+1) , bbColor2: bbProvider.bbColor2, sizeText: sizeText,));
         }  
     }
 
-    // if ( type == 'first' ) {
-
-    // }
-
-    return Container(
-      // padding: EdgeInsets.all(5),
-      //alignment: Alignment.center,
-      child: Container(
-        //width: double.infinity,
-        //alignment: Alignment.center,
-        child: Row(
-          mainAxisAlignment: centered ? MainAxisAlignment.center : MainAxisAlignment.start,
-          children: textBB,
-        ),
-      ),
+    return Row(
+      mainAxisAlignment: centered ? MainAxisAlignment.center : MainAxisAlignment.start,
+      children: textBB,
     );
   }
 }

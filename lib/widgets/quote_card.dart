@@ -8,6 +8,7 @@ class QuoteCard extends StatelessWidget {
   final String text;
   final String author;
 
+  // ignore: use_key_in_widget_constructors
   const QuoteCard({
     required this.text,
     required this.author,
@@ -15,10 +16,8 @@ class QuoteCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final Color bbColor2 = Color(0xff154F3C);
-    final Color bbColor3 = Color(0xff078F3D);
 
-    String assetImage = 'assets/bb_${Random().nextInt(19)+1}.jpg';
+    String assetImage = 'assets/quote_images/bb_${Random().nextInt(19)+1}.jpg';
 
     return Padding(
       padding: const EdgeInsets.only(top: 4.0, bottom: 4.0, right: 8, left: 8),
@@ -27,12 +26,9 @@ class QuoteCard extends StatelessWidget {
           width: double.infinity,
           height: MediaQuery.of(context).size.height/4.8,
           decoration: BoxDecoration(
-            image: DecorationImage( image: AssetImage(assetImage), fit: BoxFit.fill,colorFilter: new ColorFilter.mode(Colors.black.withOpacity(0.3), BlendMode.dstATop),),
+            image: DecorationImage( image: AssetImage(assetImage), fit: BoxFit.fill,colorFilter: ColorFilter.mode(Colors.black.withOpacity(0.3), BlendMode.dstATop),),
             border: Border.all(color: Colors.black, width: 1),
-            borderRadius: BorderRadius.all(Radius.circular(10)),
-            // gradient: LinearGradient( begin: Alignment.bottomLeft,
-            //                           end: Alignment.topRight,
-            //                           colors: [bbColor3, bbColor3])
+            borderRadius: const BorderRadius.all(Radius.circular(10)),
           ),
           
           child: Padding(
@@ -40,9 +36,9 @@ class QuoteCard extends StatelessWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-              Container(alignment: Alignment.centerLeft, child: Text('"$text"', maxLines: 5, style: TextStyle(color: Colors.black, fontStyle: FontStyle.italic, fontSize: 14, fontFamily: 'Cooper'))),
+              Container(alignment: Alignment.centerLeft, child: Text('"$text"', maxLines: 5, style: const TextStyle(color: Colors.black, fontStyle: FontStyle.italic, fontSize: 14, fontFamily: 'Cooper'))),
               const SizedBox(height: 10,),
-              Container(alignment: Alignment.centerRight, child: Text(author,style: TextStyle(color: Colors.black, fontSize: 14, fontStyle: FontStyle.italic, fontWeight: FontWeight.bold, fontFamily: 'Cooper')))
+              Container(alignment: Alignment.centerRight, child: Text(author,style: const TextStyle(color: Colors.black, fontSize: 14, fontStyle: FontStyle.italic, fontWeight: FontWeight.bold, fontFamily: 'Cooper')))
             ]),
           ),
         ),

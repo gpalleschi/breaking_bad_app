@@ -18,8 +18,6 @@ class TextPD extends StatelessWidget {
     int idxFrom = 0;
     int idxTo = 0;
 
-    print('value : <$value> length : ${value.length}');
-
     while(idxFrom<value.length) {
 
       if ( idxTo == 0 ) {
@@ -36,18 +34,14 @@ class TextPD extends StatelessWidget {
           }
       }
 
-      idxFrom == 0.0 ? print('width : ${value.substring(idxFrom,idxTo).length*12}') : print('width : ${size.width-20}');
-
-      print('Value to print : ${value.substring(idxFrom,idxTo)}');
-
       valueLines.add(
         Align(
           child: Column(
             children: [
-              idxFrom != 0.0 ? SizedBox(height: 5,) : Container(),
+              idxFrom != 0.0 ? const SizedBox(height: 5,) : Container(),
               Stack(
                 children: [
-                  Container( width: idxFrom == 0.0 ? size.width-(label.length.toDouble()*13) : size.width-20, child: Text(value.substring(idxFrom,idxTo), style: TextStyle(fontFamily: 'MomsTypeWriter', color: color, fontSize: fontSize))),
+                  SizedBox( width: idxFrom == 0.0 ? size.width-(label.length.toDouble()*13) : size.width-20, child: Text(value.substring(idxFrom,idxTo), style: TextStyle(fontFamily: 'MomsTypeWriter', color: color, fontSize: fontSize))),
                   Positioned(bottom:4, child: Container(width: idxFrom == 0.0 ? value.substring(idxFrom,idxTo).length*15 : size.width-20, height: 2, color: color.withOpacity(0.4),)),
                 ]
               ),
@@ -58,9 +52,6 @@ class TextPD extends StatelessWidget {
       idxFrom = idxTo;
 
     }
-
-    print('value : <$value> tot lines : ${valueLines.length}');
-
   
     return Column(
       children: [
@@ -74,17 +65,6 @@ class TextPD extends StatelessWidget {
            (valueLines.length > 1 )?
             valueLines.getRange(1,valueLines.length).toList() : [Container()]
            )
-            // Column(children: valueLines.getRange(1,valueLines.length).toList())
-
-            //  : Container()
-            // Column(
-            //   children: valueLines.getRange(1,valueLines.length).toList(),
-              
-            //   // [
-            //   //   Text(value, overflow: TextOverflow.fade, style: TextStyle(fontFamily: 'MomsTypeWriter', color: color, fontSize: fontSize)),
-            //   //   Positioned(bottom:4, child: Container(width: value.length*10, height: 2, color: color.withOpacity(0.6),)),
-            //   // ],
-            // )
       ],
     );
   }

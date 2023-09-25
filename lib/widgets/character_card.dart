@@ -1,13 +1,14 @@
-import 'dart:ui';
-
 import 'package:animate_do/animate_do.dart';
+import 'package:breaking_bad/providers/bb_provider.dart';
 import 'package:breaking_bad/widgets/bb_text.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 class CharacterCard extends StatelessWidget {
   final String imgPath;
   final String characterName;
 
+  // ignore: use_key_in_widget_constructors
   const CharacterCard({required this.imgPath, required this.characterName});
 
   @override
@@ -15,10 +16,7 @@ class CharacterCard extends StatelessWidget {
 
     final double displayWidth = MediaQuery.of(context).size.width;
 
-    final Color bbColor1 = Color(0xff0E5334);
-    final Color bbColor2 = Color(0xff154F3C);
-    final Color bbColor3 = Color(0xff078F3D);
-    final Color bbColor4 = Color.fromARGB(255, 32, 206, 101);
+    final bbProvider = Provider.of<BbProvider>(context, listen: false);  
 
     return SlideInLeft(
       child: Hero(
@@ -40,13 +38,11 @@ class CharacterCard extends StatelessWidget {
                                            gradient: LinearGradient(
                                             begin: Alignment.bottomLeft,
                                             end: Alignment.topRight,
-                                            colors: [bbColor3, bbColor3                                ])
+                                            colors: [bbProvider.bbColor3, bbProvider.bbColor3                                ])
                                          ),
                 width: displayWidth-40,
                 height: 50,
                 alignment: Alignment.center,
-                //child: BBtext(text:characterName),
-                // child : Text(characterName, style: TextStyle(color: Colors.white, fontSize: 25, fontWeight: FontWeight.bold)),
                 child: BBtext(text:characterName, type: 'PT1'),
                 )),
                 ]),
@@ -58,7 +54,6 @@ class CharacterCard extends StatelessWidget {
 
 class _CharacterImage extends StatelessWidget {
   const _CharacterImage({
-    super.key,
     required this.imgPath,
   });
 
@@ -68,14 +63,7 @@ class _CharacterImage extends StatelessWidget {
   Widget build(BuildContext context) {
     return ClipRRect(
       borderRadius: BorderRadius.circular(20),
-      //child: Image(image: NetworkImage(imgPath)),
       child: Image(image: NetworkImage(imgPath))
-      //  child: FadeInImage(
-      //            placeholder: AssetImage('assets/no-image.jpg'),
-      //            image: NetworkImage(imgPath),
-      //            // width: 130,
-      //            // height: 190,
-      //            fit: BoxFit.cover),
     );
   }
 }

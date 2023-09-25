@@ -33,21 +33,9 @@ class _BodyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Breaking Bad',
       initialRoute: 'home',
-      //  scaffoldMessengerKey: NotificationsService.messengerKey,
       routes: {
         'home' : (BuildContext context) => const HomeScreen(),
       },
-      // // Impostiamo lo sfondo dello scaffold
-      // // in questa area settiamo il tema dell'app
-      // theme: ContaClaraTheme.themeData,
-      // supportedLocales: L10n.all,
-      // locale: const Locale('pt'),
-      // localizationsDelegates: const [
-      //   AppLocalizations.delegate, // Add this line
-      //   GlobalMaterialLocalizations.delegate,
-      //   GlobalWidgetsLocalizations.delegate,
-      //   GlobalCupertinoLocalizations.delegate,
-      // ],
       
     );
   }

@@ -6,7 +6,7 @@ class BBLogo extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
+    return const Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           Row(
@@ -17,7 +17,7 @@ class BBLogo extends StatelessWidget {
           Row(
             children: [
               Padding(
-                padding: const EdgeInsets.only(left: 8),
+                padding: EdgeInsets.only(left: 8),
                 child: BBtext(text:'Bad', type: 'PT1', sizeSquare: 55, sizeText: 40, sizeTextElemNum: 7.5,centered: false,),
               ),
             ],
