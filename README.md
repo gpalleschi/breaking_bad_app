@@ -13,8 +13,8 @@ Data are stored in internal json files.
 * Quotes (With the most iconic photos)
 
 A demo :  
-2
-2<img src="./assets/screenshots/demo.gif" width="200" />
+
+<img src="./assets/screenshots/demo.gif" width="200" />
 
 Some Screen Shots : 
 <div style="flex">
