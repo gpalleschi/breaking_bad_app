@@ -27,7 +27,7 @@ class EpisodeScreen extends StatelessWidget {
                         child : Text('SEASON : $season', style : TextStyle(
                             fontFamily : 'MomsTypeWriter',
                             color : bbProvider.bbColor1,
-                            fontSize : 35,
+                            fontSize : 45,
                             fontWeight : FontWeight.bold
                         )),
                     ),

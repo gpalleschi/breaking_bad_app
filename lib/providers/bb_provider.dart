@@ -18,6 +18,8 @@ class BbProvider extends ChangeNotifier {
     late List<EpisodesBb> _episodesJson;
     late List<EpisodesBb> _episodes;
     late List<EpisodesBb> _episodesToSel;
+    late List<int> _seasonEpisodes;
+
     late List<QuotesBb> _quotesJson;
     late List<QuotesBb> _quotes;
     late List<QuotesBb> _quotesToSel;
@@ -36,6 +38,7 @@ class BbProvider extends ChangeNotifier {
     Color get bbColor2 => _bbColor2;
     Color get bbColor3 => _bbColor3;
     Color get bbColor4 => _bbColor4;
+    List<int> get seasonEpisodes => _seasonEpisodes;
 
     late String _menuSelected = 'Characters';
     set menuSelected (String value) {
@@ -55,6 +58,14 @@ class BbProvider extends ChangeNotifier {
     ];
     List get itemsMenuSlider => _itemsMenuSlider;
 
+    final List<String> _iconSeason = ['underwear.png','camper.png','heisenberg.png','mask.png','igunn.png',
+                                      'underwear.png','camper.png','heisenberg.png','mask.png','igunn.png',
+                                      'underwear.png','camper.png','heisenberg.png','mask.png','igunn.png',
+                                      'underwear.png','camper.png','heisenberg.png','mask.png','igunn.png',
+                                     ];
+    
+    List<String> get iconSeason => _iconSeason;
+
     final String _currentSeries = 'Breaking Bad';
 
     Future<List> readJson(String asset) async {
@@ -72,7 +83,7 @@ class BbProvider extends ChangeNotifier {
 
     List get episodes => _episodes;
 
-    List<QuotesBb> get quotes => _quotes;
+    List<QuotesBb> get quotes => _quotes..shuffle();
     List<QuotesBb> get quotesToSel => _quotesToSel;
     List<QuotesBb> get quotesU => _quotesU;
     List<QuotesBb> get quotesUToSel => _quotesUToSel;
@@ -184,12 +195,27 @@ class BbProvider extends ChangeNotifier {
       _episodesToSel = [];
 
       // Ciclo di Lettura Episodes
+      String seasonPrev = 'XXX';
+      int totEpisodesSeason = 0;
+      _seasonEpisodes = [];
       for(int i=0;i<_episodesJson.length;i++) {
         if ( _episodesJson[i].series == _currentSeries ) {
+          
+          if ( seasonPrev != _episodesJson[i].season ) {
+            if ( seasonPrev != 'XXX' ) {
+              _seasonEpisodes.add(totEpisodesSeason);
+              totEpisodesSeason = 0;
+            }
+            seasonPrev = _episodesJson[i].season;
+          }
+
+          totEpisodesSeason++;
+          
           _episodes.add(_episodesJson[i]);
           _episodesToSel.add(_episodesJson[i]);
         }
       }
+      _seasonEpisodes.add(totEpisodesSeason);
 
       // print('Characters loaded : ${_characters.length}');
       // print('Deaths loaded : ${_deaths.length}');

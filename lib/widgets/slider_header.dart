@@ -154,7 +154,7 @@ class _SearchButton extends StatelessWidget {
                   );
 
               }
-    }, icon: Icon(Icons.search, color: bbProvider.bbColor2, size: 30,));
+    }, icon: Icon(Icons.search, color: bbProvider.bbColor2.withGreen(67), size: 40,));
   }
 
   FilterListThemeData _FilterListThemeData(BuildContext context, Color bbColor3, Color bbColor2) {

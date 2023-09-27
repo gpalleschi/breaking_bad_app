@@ -23,12 +23,21 @@ class TextPD extends StatelessWidget {
       if ( idxTo == 0 ) {
           if ( idxFrom + maxValuexLine < value.length ) {
               idxTo = idxFrom + maxValuexLine;
+              if ( value.substring(idxTo-1, idxTo) == ' ' ) idxTo--;
+              if ( value.substring(idxTo-2, idxTo-1) == ' ' ) idxTo-=2;
+              if ( value.substring(idxTo-3, idxTo-2) == ' ' ) idxTo-=3;
+              if ( value.substring(idxTo-4, idxTo-3) == ' ' ) idxTo-=4;
           } else  {
             idxTo = value.length;
+
           }
       } else {
           if ( idxFrom + maxValuexNextLine < value.length ) {
               idxTo = idxFrom + maxValuexNextLine;
+              if ( value.substring(idxTo-1, idxTo) == ' ' ) idxTo--;
+              if ( value.substring(idxTo-2, idxTo-1) == ' ' ) idxTo-=2;
+              if ( value.substring(idxTo-3, idxTo-2) == ' ' ) idxTo-=3;
+              if ( value.substring(idxTo-4, idxTo-3) == ' ' ) idxTo-=4;
           } else  {
             idxTo = value.length;
           }

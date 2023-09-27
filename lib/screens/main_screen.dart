@@ -61,19 +61,20 @@ class MainScreen extends StatelessWidget {
                         items.add(Padding(padding
                         : const EdgeInsets.only(left
                             : 8.0, top
-                            : 15, bottom
-                            : 15), child
+                            : 10, bottom
+                            : 5), child
                             : ExpandablePanel(theme
                             : ExpandableThemeData(iconColor
                                 : bbProvider.bbColor2, iconSize
                                 : 30), header
                                 : Row(children
-                                : [Text('Season ${episodes[idx].season}', style
+                                : [Image.asset('assets/images/${bbProvider.iconSeason[int.parse(episodes[idx].season.toString().trim())-1]}', scale: 2, color: bbProvider.bbColor2),
+                                  Text('Season ${episodes[idx].season}', style
                                     : TextStyle(color
                                     : bbProvider.bbColor2, fontWeight
                                     : FontWeight.bold, fontSize
                                     : 25, fontFamily
-                                    : 'Cooper'))],), expanded
+                                    : 'Cooper')), ],), expanded
                                 : Column(children
                                 : List.generate(episodes.length, (index) {
                                     if(episodes[index].season.toString().trim() == prevSeason) {
@@ -88,103 +89,49 @@ class MainScreen extends StatelessWidget {
                                                           : episodes[index].episode, idx
                                                           : index)));
                                               },
-                                              child: Row(children
-                                              : [
-                                                      const SizedBox(width
-                                                  : 20,),
-                                                  Text('Episode ${episodes[index].episode} : ${episodes[index].title}', style
-                                                  : TextStyle(color
-                                                  : bbProvider.bbColor2, fontWeight
-                                                  : FontWeight.bold, fontSize
-                                                  : 14, fontFamily
-                                                  : 'Cooper')),
+                                              child: Row(children : [ const SizedBox(width : 20,),
+                                                  Column(
+                                                    crossAxisAlignment: CrossAxisAlignment.start,
+                                                    children: [
+                                                    Text('${episodes[index].episodeId}', style : TextStyle(color : bbProvider.bbColor2, fontWeight : FontWeight.bold, fontSize : 18, fontFamily : 'Cooper')),
+                                                    const SizedBox(height: 3,),
+                                                    Text('"${episodes[index].title}"', style : TextStyle(color : bbProvider.bbColor2, fontWeight : FontWeight.bold, fontSize : 18, fontFamily : 'Cooper'))
+                                                  ],),
                                                   const Spacer(),
                                                   Padding(
                                                     padding: const EdgeInsets.only(right: 8.0),
                                                     child: Icon(Icons.info, color
-                                                        : bbProvider.bbColor2,),
+                                                        : bbProvider.bbColor2,size: 30,),
                                                   ),
                                                   ],),
                                             ),);
                                             } else {
                                                 return Container();
                                             }
-                                        })), collapsed
-                                        : Container(),),));
+                                        })), 
+                                        collapsed
+                                        : Row(
+                                          children: [
+                                            const SizedBox(width : 70,),
+                                            Text('${bbProvider.seasonEpisodes[int.parse(episodes[idx].season.toString().trim())-1]} Episodes', style : TextStyle(color : bbProvider.bbColor2, fontWeight : FontWeight.bold, fontSize : 18, fontFamily : 'Cooper')),
+                                          ],
+                                        ),),));
                                     }
                                 }
                             }
                         }
 
-                        final heightSliver = MediaQuery
-                            .of(context)
-                            .size
-                            .height * 0.27;
+                        final heightSliver = MediaQuery.of(context).size.height * 0.27;
 
                         return Scaffold(body
                         : SafeArea(
-                            child
-                                : bbProvider.menuSelected == 'Deaths'
-                                ? Column(
-                                        children
-                                    : [
-                                            SliderHeader(heightSliver
-                                        : heightSliver),
-                                        Flexible(
-                                                child
-                                            : Stack(
-                                                    children
-                                                : [
-                                                        Positioned(top
-                                                    : 30, left
-                                                    : 40, child
-                                                    : Transform.rotate(angle
-                                                    : 0.35, child
-                                                    : Image.asset('assets/images/gunn.png', width
-                                                    : MediaQuery.of(context).size.width * 0.5))),
-                                                    Positioned(top
-                                                    : 40, right
-                                                    : 90, child
-                                                    : Transform.rotate(angle
-                                                    : math.pi / 2.9, child
-                                                    : Image.asset('assets/images/cartridge.png', width
-                                                    : MediaQuery.of(context).size.width * 0.15))),
-                                                    Positioned(top
-                                                    : 80, right
-                                                    : 30, child
-                                                    : Transform.rotate(angle
-                                                    : -.40, child
-                                                    : Image.asset('assets/images/cartridge.png', width
-                                                    : MediaQuery.of(context).size.width * 0.15))),
-                                                    Positioned(bottom
-                                                    : 50, left
-                                                    : 100, child
-                                                    : Transform.rotate(angle
-                                                    : .83, child
-                                                    : Image.asset('assets/images/cartridge.png', width
-                                                    : MediaQuery.of(context).size.width * 0.15))),
-                                                    Positioned(bottom
-                                                    : 30, right
-                                                    : 30, child
-                                                    : Transform.rotate(angle
-                                                    : -math.pi / 1.2, child
-                                                    : Image.asset('assets/images/cartridge.png', width
-                                                    : MediaQuery.of(context).size.width * 0.15))),
-                                                    Positioned(bottom
-                                                    : 40, left
-                                                    : 20, child
-                                                    : Transform.rotate(angle
-                                                    : -math.pi / 1, child
-                                                    : Image.asset('assets/images/cartridge.png', width
-                                                    : MediaQuery.of(context).size.width * 0.15))),
-                                                    Positioned(bottom
-                                                    : 60, left
-                                                    : MediaQuery.of(context).size.width / 2, child
-                                                    : Transform.rotate(angle
-                                                    : math.pi / 1.9, child
-                                                    : Image.asset('assets/images/cartridge.png', width
-                                                    : MediaQuery.of(context).size.width * 0.15))),
-                                                    CardSwiper(
+                            child : bbProvider.menuSelected == 'Deaths' ? 
+                                 Column(
+                                         children : [
+                                             SliderHeader(heightSliver : heightSliver),
+
+ Flexible(
+   child: CardSwiper( allowedSwipeDirection: AllowedSwipeDirection.only(left: true, right: true),
                                                             cardsCount
                                                             : bbProvider.itemsDeaths.length,
                                                             numberOfCardsDisplayed
@@ -199,11 +146,11 @@ class MainScreen extends StatelessWidget {
                                                         : const Offset(0, 25),
                                                             cardBuilder
                                                             : (context, index, percentThresholdX, percentThresholdY) => bbProvider.itemsDeaths[index],
-                                                        )
-                                                    ],
-                                                ),
-                                            )
-                                        ],
+                                                        ),
+ ),
+                                              Transform.rotate(angle: 0.25,
+                                              child: Image.asset('assets/images/gunn.png', width : MediaQuery.of(context).size.width * 0.7)),
+                                         ],
                                     )
                                     : CustomScrollView(slivers
                                     : [
