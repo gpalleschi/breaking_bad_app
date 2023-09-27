@@ -1,7 +1,7 @@
 <div style="flex">
-<h1>
-<img src="./assets/icons/bbLogo.png" alt="Breaking Bad App" style="height: 10%; width:10%;"/>
-Breaking Bad App</h1>
+<h1 style="color:#154F3C"> 
+<img src="./assets/images/breaking-bad-logo.png" alt="Breaking Bad App" style="height: 30%; width:30%;"/>
+APP</h1>
 </div>
 
 This App is a tribute to the best series ever.  
