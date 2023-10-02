@@ -123,31 +123,44 @@ class MainScreen extends StatelessWidget {
 
                         final heightSliver = MediaQuery.of(context).size.height * 0.27;
 
+                        final CardSwiperController controller = CardSwiperController();
+
                         return Scaffold(body
                         : SafeArea(
                             child : bbProvider.menuSelected == 'Deaths' ? 
                                  Column(
                                          children : [
                                              SliderHeader(heightSliver : heightSliver),
-
- Flexible(
-   child: CardSwiper( allowedSwipeDirection: AllowedSwipeDirection.only(left: true, right: true),
-                                                            cardsCount
-                                                            : bbProvider.itemsDeaths.length,
-                                                            numberOfCardsDisplayed
-                                                            : bbProvider.itemsDeaths.length > 2
-                                                            ? 3
-                                                            : (
-                                                                bbProvider.itemsDeaths.length == 2
-                                                                    ? 2
-                                                                    : 1
-                                                            ),
-                                                            backCardOffset
-                                                        : const Offset(0, 25),
-                                                            cardBuilder
-                                                            : (context, index, percentThresholdX, percentThresholdY) => bbProvider.itemsDeaths[index],
-                                                        ),
- ),
+                                              Flexible(
+                                                      child : CardSwiper(
+                                                          allowedSwipeDirection : AllowedSwipeDirection.only(left : true, right : true),
+                                                          cardsCount : bbProvider.itemsDeaths.length,
+                                                          numberOfCardsDisplayed : bbProvider.itemsDeaths.length > 2
+                                                          ? 3
+                                                          : (
+                                                              bbProvider.itemsDeaths.length == 2
+                                                                  ? 2
+                                                                  : 1
+                                                          ),
+                                                          backCardOffset : const Offset(0, 25),
+                                                          cardBuilder : (context, index, percentThresholdX, percentThresholdY) => bbProvider.itemsDeaths[index],
+                                                          controller: controller,
+                                                          // onUndo: (previousIndex, currentIndex, direction) {
+                                                          //   return true;
+                                                          // },
+                                                          // onSwipe: (previousIndex, currentIndex, direction) {
+                                                          //   currentIndex=currentIndex!+3;
+                                                          //   if (direction == CardSwiperDirection.left) {
+                                                          //     currentIndex = currentIndex!-1;
+                                                          //   } else if (direction == CardSwiperDirection.right) {
+                                                          //     currentIndex = currentIndex!+1;
+                                                          //  }
+                                                          //  return true;
+                                                          // },
+                                                          // onSwipeDirectionChange: (horizontalDirection, verticalDirection) {
+                                                          // }
+                                                      ),
+                                                  ),
                                               Transform.rotate(angle: 0.25,
                                               child: Image.asset('assets/images/gunn.png', width : MediaQuery.of(context).size.width * 0.7)),
                                          ],
