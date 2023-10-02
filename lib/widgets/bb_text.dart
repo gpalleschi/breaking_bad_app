@@ -208,7 +208,7 @@ class _StandardBB extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text(text, style: TextStyle(color: bbColor2, fontSize: sizeText, fontWeight: FontWeight.bold, fontFamily: 'Cooper'));
+    return Material(color: Colors.transparent, child: Text(text, style: TextStyle(color: bbColor2, fontSize: sizeText, fontWeight: FontWeight.bold, fontFamily: 'Cooper')));
   }
 }
 
@@ -244,13 +244,13 @@ class _SquareBB extends StatelessWidget {
                                           colors: [bbColor1, bbColor2 ]),
                                     border: Border.all(width: 1, color:Colors.white)
                                   ),
-        child: Text(text, style: TextStyle(color: Colors.white, fontSize: sizeText, fontWeight: FontWeight.bold, fontFamily: 'HelveticaNow')),
+        child: Material(color: Colors.transparent, child: Text(text, style: TextStyle(color: Colors.white, fontSize: sizeText, fontWeight: FontWeight.bold, fontFamily: 'HelveticaNow'))),
         ),
         Positioned(
           right: 1,
           child: Padding(
           padding: const EdgeInsets.all(2.0),
-          child: Text('$elemNum', style: TextStyle(color: Colors.white, fontSize: sizeTextElemNum),),
+          child: Material(color: Colors.transparent, child: Text('$elemNum', style: TextStyle(color: Colors.white, fontSize: sizeTextElemNum),)),
         ))
       ],
     );

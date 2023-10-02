@@ -29,6 +29,9 @@ class BbProvider extends ChangeNotifier {
     final String bb = 'Breaking Bad';
     final String bcs = 'Better Call Saul';
 
+    final int _totImagesQuote = 53;
+    int get totImagesQuote => _totImagesQuote;
+
     final Color _bbColor1 = Color(0xff0E5334);
     final Color _bbColor2 = Color(0xff154F3C);
     final Color _bbColor3 = Color(0xff078F3D);
